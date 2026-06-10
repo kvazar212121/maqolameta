@@ -24,3 +24,10 @@ func (a *articleUseCase) Fetch(c context.Context, filter domain.ArticleFilter) (
 
 	return a.articleRepo.Fetch(ctx, filter)
 }
+
+func (a *articleUseCase) GetUniqueKeyWords(c context.Context) ([]string, error) {
+	ctx, cancel := context.WithTimeout(c, a.contextTimeout)
+	defer cancel()
+
+	return a.articleRepo.GetUniqueKeyWords(ctx)
+}

@@ -59,6 +59,11 @@ func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.Art
 		args = append(args, filter.EndDate)
 		argId++
 	}
+	if filter.KeyWord != "" {
+		query += ` AND $` + fmt.Sprint(argId) + ` ILIKE ANY(key_words)`
+		args = append(args, "%"+filter.KeyWord+"%")
+		argId++
+	}
 	
 	rows, err := m.Conn.QueryContext(ctx, query, args...)
 	if err != nil {
@@ -94,4 +99,31 @@ func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.Art
 	}
 
 	return articles, nil
+}
+
+func (m *postgresArticleRepository) GetUniqueKeyWords(ctx context.Context) ([]string, error) {
+	query := `SELECT DISTINCT unnest(key_words) FROM articles WHERE key_words IS NOT NULL`
+	
+	rows, err := m.Conn.QueryContext(ctx, query)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	var keywords []string
+	for rows.Next() {
+		var kw string
+		if err := rows.Scan(&kw); err != nil {
+			return nil, err
+		}
+		if kw != "" {
+			keywords = append(keywords, kw)
+		}
+	}
+
+	if keywords == nil {
+		keywords = []string{}
+	}
+
+	return keywords, nil
 }

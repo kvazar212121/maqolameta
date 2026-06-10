@@ -32,12 +32,15 @@ type ArticleFilter struct {
 	AuthorName string `json:"authorName"`
 	StartDate  string `json:"startDate"`
 	EndDate    string `json:"endDate"`
+	KeyWord    string `json:"keyWord"`
 }
 
 type ArticleRepository interface {
 	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, error)
+	GetUniqueKeyWords(ctx context.Context) ([]string, error)
 }
 
 type ArticleUseCase interface {
 	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, error)
+	GetUniqueKeyWords(ctx context.Context) ([]string, error)
 }
