@@ -2,6 +2,7 @@ package handler
 
 import (
 	"net/http"
+	"strconv"
 
 	"maqola-backent/internal/domain"
 
@@ -20,6 +21,7 @@ func NewArticleHandler(r *gin.Engine, us domain.ArticleUseCase) {
 	r.GET("/health", handler.Health)
 	r.GET("/api/v1/articles", handler.FetchArticles)
 	r.GET("/api/v1/keywords", handler.FetchUniqueKeyWords)
+	r.POST("/api/v1/articles/:id/views", handler.AddViews)
 }
 
 func (a *ArticleHandler) Health(c *gin.Context) {
@@ -32,6 +34,18 @@ func (a *ArticleHandler) Health(c *gin.Context) {
 func (a *ArticleHandler) FetchArticles(c *gin.Context) {
 	ctx := c.Request.Context()
 	
+	limitStr := c.DefaultQuery("limit", "10")
+	pageStr := c.DefaultQuery("page", "1")
+	limit, _ := strconv.Atoi(limitStr)
+	page, _ := strconv.Atoi(pageStr)
+	if limit <= 0 {
+		limit = 10
+	}
+	if page <= 0 {
+		page = 1
+	}
+	offset := (page - 1) * limit
+
 	filter := domain.ArticleFilter{
 		Title:      c.Query("title"),
 		Journal:    c.Query("journal"),
@@ -41,9 +55,11 @@ func (a *ArticleHandler) FetchArticles(c *gin.Context) {
 		StartDate:  c.Query("startDate"),
 		EndDate:    c.Query("endDate"),
 		KeyWord:    c.Query("keyWord"),
+		Limit:      limit,
+		Offset:     offset,
 	}
 	
-	articles, err := a.ArticleUseCase.Fetch(ctx, filter)
+	articles, total, err := a.ArticleUseCase.Fetch(ctx, filter)
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
 		return
@@ -51,7 +67,9 @@ func (a *ArticleHandler) FetchArticles(c *gin.Context) {
 
 	c.JSON(http.StatusOK, gin.H{
 		"data":  articles,
-		"total": len(articles),
+		"total": total,
+		"page":  page,
+		"limit": limit,
 	})
 }
 
@@ -67,5 +85,34 @@ func (a *ArticleHandler) FetchUniqueKeyWords(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"data":  keywords,
 		"total": len(keywords),
+	})
+}
+
+type AddViewsRequest struct {
+	Views int `json:"views" binding:"required"`
+}
+
+func (a *ArticleHandler) AddViews(c *gin.Context) {
+	articleID := c.Param("id")
+	if articleID == "" {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "article id is required"})
+		return
+	}
+
+	var req AddViewsRequest
+	if err := c.ShouldBindJSON(&req); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "invalid request body"})
+		return
+	}
+
+	ctx := c.Request.Context()
+	err := a.ArticleUseCase.AddViews(ctx, articleID, req.Views)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
+		return
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"message": "views added successfully",
 	})
 }

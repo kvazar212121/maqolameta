@@ -22,6 +22,7 @@ type Article struct {
 	URL           string   `json:"url"`           // 10 maqola url manzil
 	PDFUrl        string   `json:"pdfUrl"`        // 11 pdf fayl manzili
 	SourceURL     string   `json:"sourceUrl"`     // 12 manba URL
+	ViewsCount    int      `json:"viewsCount"`    // 13 ko'rishlar soni
 }
 
 type ArticleFilter struct {
@@ -33,14 +34,18 @@ type ArticleFilter struct {
 	StartDate  string `json:"startDate"`
 	EndDate    string `json:"endDate"`
 	KeyWord    string `json:"keyWord"`
+	Limit      int    `json:"limit"`
+	Offset     int    `json:"offset"`
 }
 
 type ArticleRepository interface {
-	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, error)
+	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, int, error)
 	GetUniqueKeyWords(ctx context.Context) ([]string, error)
+	AddViews(ctx context.Context, articleID string, viewsToAdd int) error
 }
 
 type ArticleUseCase interface {
-	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, error)
+	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, int, error)
 	GetUniqueKeyWords(ctx context.Context) ([]string, error)
+	AddViews(ctx context.Context, articleID string, viewsToAdd int) error
 }

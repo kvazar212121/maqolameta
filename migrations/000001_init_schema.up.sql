@@ -15,3 +15,8 @@ CREATE TABLE IF NOT EXISTS articles (
     source_url VARCHAR(255),
     key_words TEXT[]
 );
+
+CREATE TABLE IF NOT EXISTS article_views (
+    article_id UUID PRIMARY KEY REFERENCES articles(id) ON DELETE CASCADE,
+    views_count INT NOT NULL DEFAULT 0
+);

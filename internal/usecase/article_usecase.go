@@ -18,7 +18,7 @@ func NewArticleUseCase(a domain.ArticleRepository, timeout time.Duration) domain
 	}
 }
 
-func (a *articleUseCase) Fetch(c context.Context, filter domain.ArticleFilter) ([]domain.Article, error) {
+func (a *articleUseCase) Fetch(c context.Context, filter domain.ArticleFilter) ([]domain.Article, int, error) {
 	ctx, cancel := context.WithTimeout(c, a.contextTimeout)
 	defer cancel()
 
@@ -30,4 +30,15 @@ func (a *articleUseCase) GetUniqueKeyWords(c context.Context) ([]string, error) 
 	defer cancel()
 
 	return a.articleRepo.GetUniqueKeyWords(ctx)
+}
+
+func (a *articleUseCase) AddViews(c context.Context, articleID string, viewsToAdd int) error {
+	ctx, cancel := context.WithTimeout(c, a.contextTimeout)
+	defer cancel()
+
+	if viewsToAdd <= 0 {
+		return nil
+	}
+
+	return a.articleRepo.AddViews(ctx, articleID, viewsToAdd)
 }

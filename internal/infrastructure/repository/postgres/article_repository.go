@@ -19,8 +19,8 @@ func NewPostgresArticleRepository(conn *sql.DB) domain.ArticleRepository {
 	return &postgresArticleRepository{Conn: conn}
 }
 
-func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.ArticleFilter) ([]domain.Article, error) {
-	query := `SELECT id, title, access_type, abstract, authors, journal, publisher, publisher_date, doi, url, pdf_url, source_url, key_words FROM articles WHERE 1=1`
+func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.ArticleFilter) ([]domain.Article, int, error) {
+	query := `SELECT a.id, a.title, a.access_type, a.abstract, a.authors, a.journal, a.publisher, a.publisher_date, a.doi, a.url, a.pdf_url, a.source_url, a.key_words, COALESCE(v.views_count, 0), COUNT(*) OVER() FROM articles a LEFT JOIN article_views v ON a.id = v.article_id WHERE 1=1`
 	var args []interface{}
 	argId := 1
 
@@ -64,14 +64,28 @@ func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.Art
 		args = append(args, "%"+filter.KeyWord+"%")
 		argId++
 	}
+
+	query += ` ORDER BY COALESCE(v.views_count, 0) DESC, a.id ASC`
+
+	if filter.Limit > 0 {
+		query += ` LIMIT $` + fmt.Sprint(argId)
+		args = append(args, filter.Limit)
+		argId++
+	}
+	if filter.Offset > 0 {
+		query += ` OFFSET $` + fmt.Sprint(argId)
+		args = append(args, filter.Offset)
+		argId++
+	}
 	
 	rows, err := m.Conn.QueryContext(ctx, query, args...)
 	if err != nil {
-		return nil, err
+		return nil, 0, err
 	}
 	defer rows.Close()
 
 	var articles []domain.Article
+	var total int
 	for rows.Next() {
 		var a domain.Article
 		var authorsJSON []byte
@@ -80,10 +94,10 @@ func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.Art
 		err := rows.Scan(
 			&a.ID, &a.Title, &a.AccessType, &a.Abstract,
 			&authorsJSON, &a.Journal, &a.Publisher, &a.PublisherDate,
-			&a.DOI, &a.URL, &a.PDFUrl, &a.SourceURL, &keyWords,
+			&a.DOI, &a.URL, &a.PDFUrl, &a.SourceURL, &keyWords, &a.ViewsCount, &total,
 		)
 		if err != nil {
-			return nil, err
+			return nil, 0, err
 		}
 		
 		a.KeyWords = keyWords
@@ -98,7 +112,7 @@ func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.Art
 		articles = []domain.Article{} 
 	}
 
-	return articles, nil
+	return articles, total, nil
 }
 
 func (m *postgresArticleRepository) GetUniqueKeyWords(ctx context.Context) ([]string, error) {
@@ -126,4 +140,16 @@ func (m *postgresArticleRepository) GetUniqueKeyWords(ctx context.Context) ([]st
 	}
 
 	return keywords, nil
+}
+
+func (m *postgresArticleRepository) AddViews(ctx context.Context, articleID string, viewsToAdd int) error {
+	query := `
+		INSERT INTO article_views (article_id, views_count)
+		VALUES ($1, $2)
+		ON CONFLICT (article_id) 
+		DO UPDATE SET views_count = article_views.views_count + EXCLUDED.views_count
+	`
+	
+	_, err := m.Conn.ExecContext(ctx, query, articleID, viewsToAdd)
+	return err
 }
