@@ -2,14 +2,12 @@ package domain
 
 import "context"
 
-// Author struct - muallif ma'lumotlari
 type Author struct {
 	Name        string `json:"name"`        // ismi sharifi
 	Affiliation string `json:"affiliation"` // ish joyi
 	ORCID       string `json:"orcid"`       // xalqaro mualliflar id si
 }
 
-// Article struct - maqola ma'lumotlari (Asosiy Domain Entity)
 type Article struct {
 	ID            string   `json:"id"`
 	Title         string   `json:"title"`         // 1 mavzu uzb rus eng
@@ -26,12 +24,20 @@ type Article struct {
 	SourceURL     string   `json:"sourceUrl"`     // 12 manba URL
 }
 
-// ArticleRepository - Ma'lumotlar bazasi (yoki boshqa manba) bilan ishlash interfeysi
-type ArticleRepository interface {
-	Fetch(ctx context.Context) ([]Article, error)
+type ArticleFilter struct {
+	Title      string `json:"title"`
+	Journal    string `json:"journal"`
+	AccessType string `json:"accessType"`
+	Publisher  string `json:"publisher"`
+	AuthorName string `json:"authorName"`
+	StartDate  string `json:"startDate"`
+	EndDate    string `json:"endDate"`
 }
 
-// ArticleUseCase - Biznes mantiq interfeysi
+type ArticleRepository interface {
+	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, error)
+}
+
 type ArticleUseCase interface {
-	Fetch(ctx context.Context) ([]Article, error)
+	Fetch(ctx context.Context, filter ArticleFilter) ([]Article, error)
 }

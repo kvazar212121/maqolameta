@@ -2,12 +2,14 @@ package main
 
 import (
 	"database/sql"
+	"fmt"
 	"log"
+	"os"
 	"time"
 
 	"github.com/gin-gonic/gin"
 	
-	_ "github.com/lib/pq" // PostgreSQL driver (importni unutmang: go get github.com/lib/pq)
+	_ "github.com/lib/pq"
 
 	"maqola-backent/internal/delivery/http/handler"
 	"maqola-backent/internal/infrastructure/repository/postgres"
@@ -15,30 +17,57 @@ import (
 )
 
 func main() {
-	// 1. PostgreSQL bazasiga ulanish (Bu yerda ulanish simini o'zingizga moslang)
-	dbConn, err := sql.Open("postgres", "host=localhost port=5432 user=postgres password=root dbname=maqolameta sslmode=disable")
+	dbHost := os.Getenv("DB_HOST")
+	if dbHost == "" {
+		dbHost = "localhost"
+	}
+	dbPort := os.Getenv("DB_PORT")
+	if dbPort == "" {
+		dbPort = "5432"
+	}
+	dbUser := os.Getenv("DB_USER")
+	if dbUser == "" {
+		dbUser = "postgres"
+	}
+	dbPassword := os.Getenv("DB_PASSWORD")
+	if dbPassword == "" {
+		dbPassword = "root"
+	}
+	dbName := os.Getenv("DB_NAME")
+	if dbName == "" {
+		dbName = "maqolameta"
+	}
+
+	dsn := fmt.Sprintf("host=%s port=%s user=%s password=%s dbname=%s sslmode=disable", 
+		dbHost, dbPort, dbUser, dbPassword, dbName)
+
+	dbConn, err := sql.Open("postgres", dsn)
 	if err != nil {
 		log.Fatal("Ma'lumotlar bazasiga ulanishda xatolik:", err)
 	}
 	defer dbConn.Close()
 
-	if err := dbConn.Ping(); err != nil {
+	for i := 0; i < 5; i++ {
+		if err = dbConn.Ping(); err == nil {
+			break
+		}
+		log.Println("Ma'lumotlar bazasi ulanishi kutilmoqda...")
+		time.Sleep(2 * time.Second)
+	}
+
+	if err != nil {
 		log.Fatal("Ma'lumotlar bazasiga ulanib bo'lmadi:", err)
 	}
 
-	// 2. Gin serverini yaratish
 	router := gin.Default()
 
-	// 3. Clean Architecture qatlamlarini bog'lash (Dependency Injection)
 	timeoutContext := time.Duration(2) * time.Second
 	
 	articleRepo := postgres.NewPostgresArticleRepository(dbConn)
 	articleUseCase := usecase.NewArticleUseCase(articleRepo, timeoutContext)
 	
-	// Handlerlarni ulab qo'yish
 	handler.NewArticleHandler(router, articleUseCase)
 
-	// 4. Serverni ishga tushirish
 	log.Println("Server 8080 portda ishga tushirildi...")
 	if err := router.Run(":8080"); err != nil {
 		log.Fatal("Server ishdan chiqdi:", err)
