@@ -90,16 +90,25 @@ func (m *postgresArticleRepository) Fetch(ctx context.Context, filter domain.Art
 		var a domain.Article
 		var authorsJSON []byte
 		var keyWords pq.StringArray 
+		var abstract, journal, publisher, pubDate, doi, url, pdfUrl, sourceUrl sql.NullString
 
 		err := rows.Scan(
-			&a.ID, &a.Title, &a.AccessType, &a.Abstract,
-			&authorsJSON, &a.Journal, &a.Publisher, &a.PublisherDate,
-			&a.DOI, &a.URL, &a.PDFUrl, &a.SourceURL, &keyWords, &a.ViewsCount, &total,
+			&a.ID, &a.Title, &a.AccessType, &abstract,
+			&authorsJSON, &journal, &publisher, &pubDate,
+			&doi, &url, &pdfUrl, &sourceUrl, &keyWords, &a.ViewsCount, &total,
 		)
 		if err != nil {
 			return nil, 0, err
 		}
 		
+		a.Abstract = abstract.String
+		a.Journal = journal.String
+		a.Publisher = publisher.String
+		a.PublisherDate = pubDate.String
+		a.DOI = doi.String
+		a.URL = url.String
+		a.PDFUrl = pdfUrl.String
+		a.SourceURL = sourceUrl.String
 		a.KeyWords = keyWords
 		if len(authorsJSON) > 0 {
 			json.Unmarshal(authorsJSON, &a.Authors) 

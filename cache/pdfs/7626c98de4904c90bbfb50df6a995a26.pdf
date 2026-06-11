@@ -1,0 +1,2547 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+  
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="5fPGCLllnWrvFxH9QWI0l1TadV7byeEvfPcyK2VkS_s"/>
+    <meta name="google-site-verification" content="Rp5zp04IKW-s1IbpTOGB7Z6XY60oloZD5C3kTM-AiY4"/>
+
+    
+    
+    <meta name="generator" content="InvenioRDM 14.0"/>
+
+    
+    
+    
+  
+    <meta name="description" content="Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2" />
+    <meta name="citation_title" content="Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine" />
+    <meta name="citation_author" content="Varga, Oleksandr" />
+    <meta name="citation_doi" content="10.11646/zootaxa.4985.2.2" />
+    <meta name="citation_keywords" content="Biodiversity" />
+    <meta name="citation_keywords" content="Taxonomy" />
+    <meta name="citation_keywords" content="Animalia" />
+    <meta name="citation_keywords" content="Arthropoda" />
+    <meta name="citation_keywords" content="Insecta" />
+    <meta name="citation_keywords" content="Hymenoptera" />
+    <meta name="citation_keywords" content="Ichneumonidae" />
+    <meta name="citation_abstract_html_url" content="https://zenodo.org/records/4943091" />
+    <meta property="og:title" content="Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine" />
+    <meta property="og:description" content="Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2" />
+    <meta property="og:url" content="https://zenodo.org/records/4943091" />
+    <meta property="og:site_name" content="Zenodo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@zenodo_org" />
+    <meta name="twitter:title" content="Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine" />
+    <meta name="twitter:description" content="Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2" />
+
+<link rel="canonical" href="https://zenodo.org/records/4943091">
+    <title>Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine</title>
+      <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico"/>
+          <link rel="apple-touch-icon" sizes="120x120" href="/static/apple-touch-icon-120.png"/>
+          <link rel="apple-touch-icon" sizes="152x152" href="/static/apple-touch-icon-152.png"/>
+          <link rel="apple-touch-icon" sizes="167x167" href="/static/apple-touch-icon-167.png"/>
+          <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon-180.png"/>
+    
+    <link rel="stylesheet" href="/static/dist/css/3526.33f8574de58ae684aebb.css" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+      <link rel="stylesheet" type="text/css"
+            href="/communities/biosyslit/community-theme-15.css">
+    
+  </head>
+  <body data-invenio-config='{"isMathJaxEnabled": "//cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML"}' ng-csp  itemscope itemtype="http://schema.org/WebPage" data-spy="scroll" data-target=".scrollspy-target">
+    <!--[if lt IE 8]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    
+
+<div>
+  <header class="theme header">
+
+    <div class="outer-navbar theme-default">
+        <div class="ui container invenio-header-container theme-default">
+          <nav id="invenio-nav" class="ui inverted menu borderless p-0">
+            <div class="item logo p-0">
+                    <a class="logo-link" href="/">
+                      <img class="ui image rdm-logo"
+                           src="/static/images/invenio-rdm.svg"
+                           alt="Zenodo home"/>
+                    </a>
+            </div>
+
+            <div id="rdm-burger-toggle">
+              <button
+                id="rdm-burger-menu-icon"
+                class="ui button transparent"
+                aria-label="Menu"
+                aria-haspopup="menu"
+                aria-expanded="false"
+                aria-controls="invenio-menu"
+              >
+                <span class="navicon" aria-hidden="true"></span>
+              </button>
+            </div>
+
+            <nav
+              id="invenio-menu"
+              aria-labelledby="rdm-burger-menu-icon"
+              class="ui fluid menu borderless mobile-hidden"
+            >
+              <button
+                id="rdm-close-burger-menu-icon"
+                class="ui button transparent"
+                aria-label="Close menu"
+              >
+                <span class="navicon" aria-hidden="true"></span>
+              </button>
+    
+        
+          
+        
+    
+      <div class="item p-0 search-bar">
+        <div id="header-search-bar" data-options='[{"key": "communities", "text": "In this community", "value": "/communities/biosyslit/records"}, {"key": "records", "text": "All Zenodo", "value": "/search"}]'>
+          <div class="ui fluid search">
+            <div class="ui icon input">
+              <input
+                autocomplete="off"
+                aria-label="Search records"
+                placeholder="Search records..."
+                type="text"
+                tabindex="0"
+                class="prompt"
+                value=""
+              >
+              <button class="ui icon button right-floated search" aria-label="Search">
+                <i aria-hidden="true" class="search icon"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+                    <div class="item">
+                      <a href="/communities">Communities</a>
+                    </div>
+
+                
+                  <div class="item">
+                    <a href="/me/uploads">My dashboard</a>
+                  </div>
+                
+                <div class="right menu item">
+    <form>
+      <a
+        href="/login/?next=/records/4943091"
+        class="ui button auth-button" aria-busy="false" aria-live="polite" aria-label="Log in"
+      >
+        <i class="sign-in icon auth-icon" aria-hidden="true"></i>
+        Log in
+      </a>
+      
+        <a href="/signup/" class="ui button signup">
+          <i class="edit outline icon"></i>
+          Sign up
+        </a>
+      
+    </form>
+                </div>
+            </nav>
+          </nav>
+        </div>
+    </div>
+      
+      
+    
+      
+    
+    
+</header>
+</div>
+
+  <main id="main">
+    <div class="invenio-page-body">
+<span id="detail-share-btn-require-link-expiration"
+        data-share-btn-require-link-expiration='false'>
+
+  <section id="banners" class="banners" aria-label="Information banner">
+    <!-- COMMUNITY HEADER: hide it when displaying the submission request -->
+    
+      
+        
+        
+          <div
+        class="ui container fluid with-submenu rel-pt-2 ml-0-mobile mr-0-mobile">
+  <div class="ui container fluid mr-0-mobile ml-0-mobile">
+    <div class="ui relaxed container grid">
+      <div class="row pb-0">
+        <div
+                class="sixteen wide mobile sixteen wide tablet ten wide computer column">
+          <div
+                  class="community-header flex align-items-center column-mobile align-items-start-mobile">
+            <div class="flex align-items-center">
+              <div class="ui rounded image community-image mt-5 rel-mr-2">
+                <a href="https://zenodo.org/communities/biosyslit/">
+                  <img
+                          src="https://zenodo.org/api/communities/c529f97d-f8cb-4c13-a439-9e36891694c2/logo"
+                          alt=""
+                          class="rel-mb-1"
+                  />
+                </a>
+              </div>
+
+              <div class="mobile only">
+                <a class="remove-default-style" href="https://zenodo.org/communities/biosyslit/">
+                  <h1 class="ui medium header mb-5">
+                    Biodiversity Literature Repository
+                  </h1>
+                </a>
+              </div>
+            </div>
+
+            <div>
+              <div class="flex align-items-center mb-5 tablet computer only">
+
+                <a class="remove-default-style" href="https://zenodo.org/communities/biosyslit/">
+                  <h1 class="ui medium header mb-0">
+                    Biodiversity Literature Repository
+                  </h1>
+                </a>
+
+                
+              </div>
+
+              <div class="text-muted">
+                
+
+                
+                
+                  
+                  
+
+                  <div class="inline-computer mt-5 rel-mr-1">
+                    
+                      by
+                    
+                    Plazi
+                    <a target="_blank" class="no-text-decoration" data-tooltip="Verified community" href="https://support.zenodo.org/help/en-gb/11/108">
+                      <i class="green check circle outline link icon"></i>
+                    </a>
+                    
+                  </div>
+                
+              
+
+                
+                  <div class="inline-computer mt-5 rel-mr-1">
+                    <i class="linkify icon" aria-hidden="true"></i>
+                    <a href="https://www.biolitrepo.org">
+                      https://www.biolitrepo.org
+                    </a>
+                  </div>
+                
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+      <div
+        class="sixteen wide mobile sixteen wide tablet six wide computer right aligned middle aligned column">
+          <a href="/uploads/new?community=biosyslit"
+            class="ui positive button labeled icon rel-mt-1 theme-secondary">
+            <i class="upload icon" aria-hidden="true"></i>
+            Submit to community
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="ui divider mobile only"></div>
+    <div class="ui container fluid theme-tertiary page-subheader rel-mt-2 p-10 mr-0-mobile ml-0-mobile">
+      <h5 class="ui container">
+        Liberated Data
+      </h5>
+    </div>
+    <div
+            class="ui container fluid secondary pointing stackable menu pl-0 pr-0 theme-primary mt-0 mr-0-mobile ml-0-mobile">
+      
+    </div>
+  </div>
+</div>
+        
+      
+    
+    <!-- /COMMUNITY HEADER -->
+
+    <!-- PREVIEW HEADER -->
+    
+    <!-- /PREVIEW HEADER -->
+
+    
+  </section>
+
+
+  <div class="ui container">
+    <div class="ui relaxed grid mt-5">
+      <div class="two column row top-padded">
+
+        
+        <article
+          class="sixteen wide tablet eleven wide computer column main-record-content">
+          
+
+              
+
+              
+
+              <section id="record-info"
+                       aria-label="Publication date and version number">
+                <div class="ui grid middle aligned">
+                  <div class="two column row">
+                    <div class="left floated left aligned column">
+                      <span class="ui" title="Publication date">
+                        Published June 14, 2021
+                      </span>
+                      <span
+                        class="label text-muted"> | Version v1</span>
+                    </div>
+                    <div class="right floated right aligned column">
+
+                      
+                        <span role="note"
+                              class="ui label horizontal small neutral mb-5"
+                              aria-label="Resource type"
+                        >
+                          Journal article
+                        </span>
+                      
+
+                      <span role="note"
+                            class="ui label horizontal small access-status restricted mb-5"
+                            data-tooltip="The record is publicly accessible, but files are restricted. &lt;a href=&#34;https://zenodo.org/account/settings/login?next=https://zenodo.org/records/4943091&#34;&gt;Log in&lt;/a&gt; to check if you have access."
+                            data-inverted=""
+                            aria-label="Access status"
+                      >
+                        
+                          <i class="icon ban"
+                             aria-hidden="true"></i>
+                        
+                        <span
+                          aria-label="The record is publicly accessible, but files are restricted. &lt;a href=&#34;https://zenodo.org/account/settings/login?next=https://zenodo.org/records/4943091&#34;&gt;Log in&lt;/a&gt; to check if you have access.">
+                          Restricted
+                        </span>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <div class="ui divider hidden"></div><section id="record-title-section"
+                       aria-label="Record title, authors and contributors">
+                <h1 id="record-title"
+                    class="wrap-overflowing-text">Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine</h1>
+
+                
+                  <section id="creatibutors"
+                           aria-label="Authors and contributors">
+
+<div class="ui grid">
+  
+    <div class="row ui accordion affiliations">
+      <div class="sixteen wide mobile twelve wide tablet thirteen wide computer column">
+          <h3 class="sr-only">Authors/Creators</h3>
+          <ul class="creatibutors">
+            
+  
+  <li class="creatibutor-wrap separated">
+    <a class="ui creatibutor-link"
+      
+      href="/search?q=metadata.creators.person_or_org.name:%22Varga,+Oleksandr%22"
+    >
+
+      <span class="creatibutor-name">Varga, Oleksandr</span></a>
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+    
+      <i class="user icon"></i>
+    
+  
+</li>
+  
+          </ul>
+      </div>
+
+        
+        
+
+    </div>
+  
+
+  
+</div>
+                  </section>
+                
+              </section>
+
+
+
+  <section id="description" class="rel-mt-2 rich-input-content" aria-label="Record description">
+    <h2 id="description-heading" class="sr-only">Description</h2>
+    
+    <div style="word-wrap: break-word;">
+      Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2
+    </div>
+  </section>
+
+
+<section
+      id="record-files" class="rel-mt-2 rel-mb-3"
+      aria-label="Files"
+    >
+        
+        <div
+          class="ui accordion panel mb-10 restricted"
+          href="#collapsablePreview"
+        >
+          <h3 class="active title panel-heading restricted m-0">
+            <div role="button" id="files-preview-accordion-trigger" aria-controls="collapsablePreview" aria-expanded="true" tabindex="0" class="trigger">
+              Files
+              <i class="angle right icon" aria-hidden="true"></i>
+            </div>
+          </h3>
+          <div role="region" id="collapsablePreview" aria-labelledby="files-preview-accordion-trigger" class="active content pt-0">
+            <div class="ui negative message file-box-message rel-pl-1 rel-pr-1">
+              <i class="ui ban icon" aria-hidden="true"></i>
+              <h4 class="inline">Restricted</h4>
+              <p>The record is publicly accessible, but files are restricted. &lt;a href=&#34;https://zenodo.org/account/settings/login?next=https://zenodo.org/records/4943091&#34;&gt;Log in&lt;/a&gt; to check if you have access.</p>
+
+              
+              
+                
+                          
+              
+            </div>
+          </div>
+        </div>
+
+    </section>
+              
+    
+    <h2>Linked records</h2>
+    <section
+      id="blr-search"
+      data-blr-endpoint="/api/records"
+      data-record-doi='"10.11646/zootaxa.4985.2.2"'
+      data-resource-type='"Journal article"'
+      data-blr-id='"c529f97d-f8cb-4c13-a439-9e36891694c2"'
+    >
+      <div class="ui segment">
+        <div class="ui fluid placeholder">
+          <div class="image header">
+            <div class="long line"></div>
+            <div class="line"></div>
+          </div>
+          <div class="image header">
+            <div class="long line"></div>
+            <div class="line"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+
+  <section id="additional-details" class="rel-mt-2" aria-label="Additional record details">
+
+
+
+
+
+
+
+
+
+
+
+  <h2 id="record-details-heading">Additional details</h2>
+
+  <div class="ui divider"></div>
+
+  
+
+  
+    
+      <div class="ui grid">
+        <div class="sixteen wide mobile four wide tablet three wide computer column">
+          <h3 class="ui header">Identifiers</h3>
+        </div>
+        <div class="sixteen wide mobile twelve wide tablet thirteen wide computer column">
+          <dl class="details-list">
+            
+  
+    <dt class="ui tiny header">URL</dt>
+    <dd>
+      
+      
+        <a href="https://www.checklistbank.org/dataset/5869" target="_blank" title="Opens in new tab">
+          https://www.checklistbank.org/dataset/5869
+        </a>
+      
+    </dd>
+  
+    <dt class="ui tiny header">LSID</dt>
+    <dd>
+      
+      
+        urn:lsid:zoobank.org:pub:8DBBBE6B-B212-4D84-873F-FDEEA44FD491
+      
+    </dd>
+  
+    <dt class="ui tiny header">LSID</dt>
+    <dd>
+      
+      
+        urn:lsid:plazi.org:pub:FF8FFFC7FFA5FFDFE651FFD38E5AFFCB
+      
+    </dd>
+  
+    <dt class="ui tiny header">URL</dt>
+    <dd>
+      
+      
+        <a href="http://publication.plazi.org/id/FF8FFFC7FFA5FFDFE651FFD38E5AFFCB" target="_blank" title="Opens in new tab">
+          http://publication.plazi.org/id/FF8FFFC7FFA5FFDFE651FFD38E5AFFCB
+        </a>
+      
+    </dd>
+  
+
+          </dl>
+        </div>
+      </div>
+    
+    <div class="ui divider"></div>
+  
+
+  
+    
+      <div class="ui fluid accordion padded grid rel-mb-1">
+        <div class="active title sixteen wide mobile four wide tablet three wide computer column">
+          <h3 class="ui header">
+            <div
+              id="related-works-accordion-trigger"
+              role="button"
+              tabindex="0"
+              aria-expanded="true"
+              aria-controls="related-works-panel"
+              class="trigger"
+            >
+              <i class="caret right icon" aria-hidden="true"></i>Related works
+            </div>
+          </h3>
+        </div>
+        <div
+          id="related-works-panel"
+          role="region"
+          aria-labelledby="related-works-accordion-trigger"
+          class="active content sixteen wide mobile twelve wide tablet thirteen wide computer column"
+        >
+          
+  <dl class="details-list">
+      <dt class="ui tiny header">Cites</dt>
+      
+  
+    <dd>
+      
+        Publication:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.1080/00222933.2016.1197335" target="_blank" title="Opens in new tab">
+          10.1080/00222933.2016.1197335
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+
+      <dt class="ui tiny header">Has part</dt>
+      
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943093" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943093
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943101" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943101
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943103" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943103
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943109" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943109
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943113" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943113
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943117" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943117
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943123" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943123
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943127" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943127
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943131" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943131
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943346" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943346
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.5056012" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.5056012
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943352" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943352
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943133" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943133
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943135" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943135
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943137" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943137
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943139" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943139
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.5056062" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.5056062
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Taxonomic treatment:
+      
+
+      
+      
+      
+        <a href="http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42" target="_blank" title="Opens in new tab">
+          http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943095" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943095
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943099" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943099
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943105" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943105
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943107" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943107
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943115" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943115
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943119" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943119
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943121" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943121
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943125" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943125
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943176" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943176
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943190" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943190
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943192" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943192
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943195" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943195
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943197" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943197
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943199" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943199
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943201" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943201
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943180" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943180
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+    <dd>
+      
+        Figure:
+      
+
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.4943182" target="_blank" title="Opens in new tab">
+          10.5281/zenodo.4943182
+        </a>
+      
+
+      
+         (DOI)
+      
+    </dd>
+  
+
+      <dt class="ui tiny header">Is source of</dt>
+      
+  
+    <dd>
+      
+        Dataset:
+      
+
+      
+      
+      
+        <a href="https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735" target="_blank" title="Opens in new tab">
+          https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735
+        </a>
+      
+
+      
+         (URL)
+      
+    </dd>
+  
+
+  </dl>
+
+        </div>
+      </div>
+    
+    <div class="ui divider"></div>
+  
+
+  
+
+  
+
+  
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+
+      
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+  
+
+  
+    
+      <div class="ui fluid accordion padded grid rel-mb-1">
+        <div class="active title sixteen wide mobile four wide tablet three wide computer column">
+          <h3 class="ui header">
+            <div
+              id="references-accordion-trigger"
+              role="button"
+              tabindex="0"
+              aria-expanded="true"
+              aria-controls="references-panel"
+              class="trigger"
+            >
+              <i class="caret right icon" aria-hidden="true"></i>References
+            </div>
+          </h3>
+        </div>
+        <div
+          id="references-panel"
+          role="region"
+          aria-labelledby="references-accordion-trigger"
+          class="active content sixteen wide mobile twelve wide tablet thirteen wide computer column text-break"
+        >
+          
+  <ul class="ui bulleted list details-list">
+    
+      
+      
+      <li class="item">Choi, J.-K., Kolarov, J. &amp; Lee, J.-W. (2016) A taxonomic review of the genus Exochus Gravenhorst (Hymenoptera: Ichneumonidae: Metopiinae) from South Korea with descriptions of ten new species. Journal of Natural History, 50 (37-38), 2327-2367. <a href="https://doi.org/10.1080/00222933.2016.1197335" rel="noopener">https://doi.org/10.1080/00222933.2016.1197335</a></li>
+    
+      
+      
+      <li class="item">Gauld, I.D. (1991) The Ichneumonidae of Costa Rica, 1. Memoirs of the American Entomological Institute, 47, 1-589.</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (1992) Parasitic wasps of the subfamily Metopiinae (Hymenoptera, Ichneumonoidea) of Transbaikalia. Insects of Daurya in Adjacent Territories. Central Scientific Research Laboratory of Hunting and Forestry. Moscow, 1, 86-93. [in Russian]</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (1993) New Palearctic species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae). Zoologicheskii Zhurnal, 72 (3), 92-105. [in Russian]</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (1999) New and little-known Palaearctic species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae). Zoologicheskii Zhurnal, 78 (2), 191-201. [in Russian]</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (2001) New species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopinae) from Russia and Mongolia. Zoologicheskii Zhurnal, 80 (11), 1404-1408. [in Russian]</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (2003) New species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae) from the Russian Far East. Report 2. Zoologicheskii Zhurnal, 82 (10), 1211-1214. [in Russian]</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (2007a) Ichneumon flies of the genus Exochus Gravenhorst (Hymenoptera: Ichneumonidae: Metopiinae) of the fauna of Palaearctic region. Russian Entomological Journal, 16 (3), 339-358.</li>
+    
+      
+      
+      <li class="item">Tolkanitz, V.I. (2007b) Metopiinae. In: Lelej, A.S. (Ed.), Key to the insects of Russia Far East. Vol. IV. Neuropteroidea, Mecoptera, Hymenoptera. Part 5. Vladivostok: Dalnauka, pp. 638-667. [in Russian]</li>
+    
+      
+      
+      <li class="item">Yu, D.S., van Achterberg, C. &amp; Horstmann, K. (2016) World Ichneumonoidea 2015. Taxonomy, Biology, Morphology and Distribution. Nepean, Ontario. [program]</li>
+    
+      
+      
+      <li class="item">Zerova, M.D., Tolkanitz, V.I., Kotenko, A.G., Seryogina, L.Y., Diakontshuk, L.A., Melika, G., Gumovsky, O.V., Fursov, V.N., Simutnik, S.A., Narolsky, N.B. &amp; Stetsenko, T.I. (2006) The Types of Ichneumonoidea, Cynipoidea and Chalcidoidea (Hymenoptera, Apocrita) Deposited in the Collection of the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zoodiversity, Supplement 20, 1-132.</li>
+    
+  </ul>
+
+        </div>
+      </div>
+    
+    <div class="ui divider"></div>
+  
+
+
+
+  
+
+  </section>
+    
+    <section
+      id="citations-search"
+      data-record-pids='{"doi": {"identifier": "10.11646/zootaxa.4985.2.2", "provider": "external"}, "oai": {"identifier": "oai:zenodo.org:4943091", "provider": "oai"}}'
+      data-record-parent-pids='{"doi": {"identifier": "10.11646/zootaxa.4985.2.2", "provider": "external"}, "oai": {"identifier": "oai:zenodo.org:4943091", "provider": "oai"}}'
+      data-citations-endpoint="https://zenodo-broker.web.cern.ch/api/relationships"
+      aria-label="Record citations"
+      class="rel-mb-1"
+    >
+    </section>
+  
+        </article>
+
+        
+        <aside class="sixteen wide tablet five wide computer column sidebar"
+               aria-label="Record details">
+          
+
+
+
+
+<section id="metrics" aria-label="Metrics" class="ui segment rdm-sidebar sidebar-container">
+
+
+<div class="ui tiny two statistics rel-mt-1">
+  
+  
+
+  <div class="ui statistic">
+    <div class="value">172</div>
+    <div class="label">
+      <i aria-hidden="true" class="eye icon"></i>
+      Views
+    </div>
+  </div>
+
+  <div class="ui statistic">
+    <div class="value">0</div>
+    <div class="label">
+      <i aria-hidden="true" class="download icon"></i>
+      Downloads
+    </div>
+  </div>
+</div>
+
+<div class="ui accordion rel-mt-1 centered">
+  <div class="title trigger" tabindex="0">
+    <i class="caret right icon" aria-hidden="true"></i>
+    <span
+      data-open-text="Show more details"
+      data-close-text="Show less details"
+    >
+      Show more details
+    </span>
+  </div>
+
+  <div class="content">
+    <table id="record-statistics" class="ui definition table fluid">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="right aligned">All versions</th>
+          <th class="right aligned">This version</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Views
+            <i
+              tabindex="0"
+              role="button"
+              style="position:relative"
+              class="popup-trigger question circle small icon"
+              aria-expanded="false"
+              aria-label="More info"
+              data-variation="mini inverted"
+            >
+            </i>
+            <p role="tooltip" class="popup-content ui flowing popup transition hidden">
+              Total views
+            </p>
+          </td>
+          <td data-label="All versions" class="right aligned">
+  
+    172
+  
+</td>
+          <td data-label="This version" class="right aligned">
+  
+    172
+  
+</td>
+        </tr>
+        <tr>
+          <td>
+            Downloads
+            <i
+              tabindex="0"
+              role="button"
+              style="position:relative"
+              class="popup-trigger question circle small icon"
+              aria-expanded="false"
+              aria-label="More info"
+              data-variation="mini inverted"
+            >
+            </i>
+            <p role="tooltip" class="popup-content ui flowing popup transition hidden">
+              Total downloads
+            </p>
+          </td>
+          <td data-label="All versions" class="right aligned">
+  
+    0
+  
+</td>
+          <td data-label="This version" class="right aligned">
+  
+    0
+  
+</td>
+        </tr>
+        <tr>
+          <td>
+            Data volume
+            <i
+              tabindex="0"
+              role="button"
+              style="position:relative"
+              class="popup-trigger question circle small icon"
+              aria-expanded="false"
+              aria-label="More info"
+              data-variation="mini inverted"
+            >
+            </i>
+            <p role="tooltip" class="popup-content ui flowing popup transition hidden">
+              Total data volume
+            </p>
+          </td>
+
+          <td data-label="All versions" class="right aligned">0 Bytes</td>
+          <td data-label="This version" class="right aligned">0 Bytes</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="text-align-center rel-mt-1">
+      <small>
+        <a href="/help/statistics">More info on how stats are collected....</a>
+      </small>
+    </p>
+  </div>
+
+</div>
+
+</section>
+
+<div class="sidebar-container">
+  <h2 class="ui medium top attached header mt-0">Versions</h2>
+  <div id="record-versions" class="ui segment rdm-sidebar bottom attached pl-0 pr-0 pt-0">
+    <div class="versions">
+      <div id="recordVersions" data-record='{"access": {"embargo": {"active": false, "reason": null}, "files": "restricted", "record": "public", "status": "restricted"}, "created": "2021-06-14T07:58:54.884744+00:00", "custom_fields": {"journal:journal": {"issue": "2", "pages": "173-193", "title": "Zootaxa", "volume": "4985"}, "legacy:communities": ["biosyslit"]}, "deletion_status": {"is_deleted": false, "status": "P"}, "expanded": {"parent": {"access": {"owned_by": {"active": null, "blocked_at": null, "confirmed_at": null, "email": "", "id": "1161", "is_current_user": false, "links": {"avatar": "https://zenodo.org/api/users/1161/avatar.svg", "records_html": "https://zenodo.org/search?q=parent.access.owned_by.user:1161", "self": "https://zenodo.org/api/users/1161"}, "profile": {"affiliations": "", "full_name": ""}, "username": "coviho-admin", "verified_at": null}}, "communities": {"default": {"access": {"review_policy": "open", "visibility": "public"}, "id": "c529f97d-f8cb-4c13-a439-9e36891694c2", "links": {"logo": "https://zenodo.org/api/communities/c529f97d-f8cb-4c13-a439-9e36891694c2/logo"}, "metadata": {"description": "A community to share publications related to bio-systematics.", "title": "Biodiversity Literature Repository", "type": {"id": "topic", "title": {"de": "Thema", "en": "Topic"}}}, "slug": "biosyslit"}}}}, "files": {"enabled": true}, "id": "4943091", "is_draft": false, "is_published": true, "links": {"access": "https://zenodo.org/api/records/4943091/access", "access_grants": "https://zenodo.org/api/records/4943091/access/grants", "access_links": "https://zenodo.org/api/records/4943091/access/links", "access_request": "https://zenodo.org/api/records/4943091/access/request", "access_users": "https://zenodo.org/api/records/4943091/access/users", "archive": "https://zenodo.org/api/records/4943091/files-archive", "archive_media": "https://zenodo.org/api/records/4943091/media-files-archive", "communities": "https://zenodo.org/api/records/4943091/communities", "communities-suggestions": "https://zenodo.org/api/records/4943091/communities-suggestions", "doi": "https://doi.org/10.11646/zootaxa.4985.2.2", "draft": "https://zenodo.org/api/records/4943091/draft", "file_modification": "https://zenodo.org/api/records/4943091/file-modification", "files": "https://zenodo.org/api/records/4943091/files", "latest": "https://zenodo.org/api/records/4943091/versions/latest", "latest_html": "https://zenodo.org/records/4943091/latest", "media_files": "https://zenodo.org/api/records/4943091/media-files", "parent": "https://zenodo.org/api/records/4943090", "parent_html": "https://zenodo.org/records/4943090", "preview_html": "https://zenodo.org/records/4943091?preview=1", "quota_increase": "https://zenodo.org/api/records/4943091/quota-increase", "request_deletion": "https://zenodo.org/api/records/4943091/request-deletion", "requests": "https://zenodo.org/api/records/4943091/requests", "reserve_doi": "https://zenodo.org/api/records/4943091/draft/pids/doi", "self": "https://zenodo.org/api/records/4943091", "self_doi": "https://doi.org/10.11646/zootaxa.4985.2.2", "self_doi_html": "https://zenodo.org/doi/10.11646/zootaxa.4985.2.2", "self_html": "https://zenodo.org/records/4943091", "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4943091/manifest", "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4943091/sequence/default", "thumbnails": {"10": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E10,/0/default.jpg", "100": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E100,/0/default.jpg", "1200": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E1200,/0/default.jpg", "250": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E250,/0/default.jpg", "50": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E50,/0/default.jpg", "750": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E750,/0/default.jpg"}, "versions": "https://zenodo.org/api/records/4943091/versions"}, "media_files": {"enabled": false}, "metadata": {"creators": [{"person_or_org": {"family_name": "Varga", "given_name": "Oleksandr", "name": "Varga, Oleksandr", "type": "personal"}}], "description": "Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2", "identifiers": [{"identifier": "https://www.checklistbank.org/dataset/5869", "scheme": "url"}, {"identifier": "urn:lsid:zoobank.org:pub:8DBBBE6B-B212-4D84-873F-FDEEA44FD491", "scheme": "lsid"}, {"identifier": "urn:lsid:plazi.org:pub:FF8FFFC7FFA5FFDFE651FFD38E5AFFCB", "scheme": "lsid"}, {"identifier": "http://publication.plazi.org/id/FF8FFFC7FFA5FFDFE651FFD38E5AFFCB", "scheme": "url"}], "publication_date": "2021-06-14", "publisher": "Zenodo", "references": [{"reference": "Choi, J.-K., Kolarov, J. \u0026 Lee, J.-W. (2016) A taxonomic review of the genus Exochus Gravenhorst (Hymenoptera: Ichneumonidae: Metopiinae) from South Korea with descriptions of ten new species. Journal of Natural History, 50 (37-38), 2327-2367. https://doi.org/10.1080/00222933.2016.1197335"}, {"reference": "Gauld, I.D. (1991) The Ichneumonidae of Costa Rica, 1. Memoirs of the American Entomological Institute, 47, 1-589."}, {"reference": "Tolkanitz, V.I. (1992) Parasitic wasps of the subfamily Metopiinae (Hymenoptera, Ichneumonoidea) of Transbaikalia. Insects of Daurya in Adjacent Territories. Central Scientific Research Laboratory of Hunting and Forestry. Moscow, 1, 86-93. [in Russian]"}, {"reference": "Tolkanitz, V.I. (1993) New Palearctic species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae). Zoologicheskii Zhurnal, 72 (3), 92-105. [in Russian]"}, {"reference": "Tolkanitz, V.I. (1999) New and little-known Palaearctic species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae). Zoologicheskii Zhurnal, 78 (2), 191-201. [in Russian]"}, {"reference": "Tolkanitz, V.I. (2001) New species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopinae) from Russia and Mongolia. Zoologicheskii Zhurnal, 80 (11), 1404-1408. [in Russian]"}, {"reference": "Tolkanitz, V.I. (2003) New species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae) from the Russian Far East. Report 2. Zoologicheskii Zhurnal, 82 (10), 1211-1214. [in Russian]"}, {"reference": "Tolkanitz, V.I. (2007a) Ichneumon flies of the genus Exochus Gravenhorst (Hymenoptera: Ichneumonidae: Metopiinae) of the fauna of Palaearctic region. Russian Entomological Journal, 16 (3), 339-358."}, {"reference": "Tolkanitz, V.I. (2007b) Metopiinae. In: Lelej, A.S. (Ed.), Key to the insects of Russia Far East. Vol. IV. Neuropteroidea, Mecoptera, Hymenoptera. Part 5. Vladivostok: Dalnauka, pp. 638-667. [in Russian]"}, {"reference": "Yu, D.S., van Achterberg, C. \u0026 Horstmann, K. (2016) World Ichneumonoidea 2015. Taxonomy, Biology, Morphology and Distribution. Nepean, Ontario. [program]"}, {"reference": "Zerova, M.D., Tolkanitz, V.I., Kotenko, A.G., Seryogina, L.Y., Diakontshuk, L.A., Melika, G., Gumovsky, O.V., Fursov, V.N., Simutnik, S.A., Narolsky, N.B. \u0026 Stetsenko, T.I. (2006) The Types of Ichneumonoidea, Cynipoidea and Chalcidoidea (Hymenoptera, Apocrita) Deposited in the Collection of the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zoodiversity, Supplement 20, 1-132."}], "related_identifiers": [{"identifier": "https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735", "relation_type": {"id": "issourceof", "title": {"de": "Ist Quelle von", "en": "Is source of"}}, "resource_type": {"id": "dataset", "title": {"de": "Datensatz", "en": "Dataset"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943093", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943101", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943103", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943109", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943113", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943117", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943123", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943127", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943131", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943346", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056012", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943352", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943133", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943135", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943137", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943139", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056062", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943095", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943099", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943105", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943107", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943115", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943119", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943121", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943125", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943176", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943190", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943192", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943195", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943197", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943199", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943201", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943180", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943182", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.1080/00222933.2016.1197335", "relation_type": {"id": "cites", "title": {"de": "Zitiert", "en": "Cites"}}, "resource_type": {"id": "publication", "title": {"de": "Publikation", "en": "Publication"}}, "scheme": "doi"}], "resource_type": {"id": "publication-article", "title": {"de": "Zeitschriftenartikel", "en": "Journal article"}}, "subjects": [{"subject": "Biodiversity"}, {"subject": "Taxonomy"}, {"subject": "Animalia"}, {"subject": "Arthropoda"}, {"subject": "Insecta"}, {"subject": "Hymenoptera"}, {"subject": "Ichneumonidae"}], "title": "Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine"}, "parent": {"access": {"owned_by": {"user": "1161"}, "settings": {"accept_conditions_text": null, "allow_guest_requests": false, "allow_user_requests": false, "secret_link_expiration": 0}}, "communities": {"default": "c529f97d-f8cb-4c13-a439-9e36891694c2", "entries": [{"access": {"member_policy": "open", "members_visibility": "public", "record_submission_policy": "open", "review_policy": "open", "visibility": "public"}, "children": {"allow": true}, "created": "2013-11-11T14:14:18+00:00", "custom_fields": {}, "deletion_status": {"is_deleted": false, "status": "P"}, "id": "c529f97d-f8cb-4c13-a439-9e36891694c2", "links": {}, "metadata": {"curation_policy": "\u003col\u003e\n\u003cli\u003eIf an uploaded document has an existing DOI, it will be kept. If there is no DOI, a Zenodo DOI will be minted for the item.\u003c/li\u003e\n\u003cli\u003eItems with Open Access remain Open Access.\u003c/li\u003e\n\u003cli\u003eItems with closed access remain closed. If they are published on 31.12.1999 or earlier, they are made accessible for reading. Please consult your national copyright law for conditions of reuse.\u003c/li\u003e\n\u003cli\u003eTo upload publications, please contact \u003ca href=\"mailto:info@plazi.org\"\u003einfo@plazi.org\u003c/a\u003e.\u003c/li\u003e\n\u003c/ol\u003e", "description": "A community to share publications related to bio-systematics.", "funding": [{"funder": {"id": "051z6e826"}}], "organizations": [{"name": "Plazi"}], "page": "\u003cp\u003eThe Biodiversity Literature Repository (BLR) is to share publications related to bio-systematics. The goal is to provide\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eopen access to publications cited in publications or in combination with scientific names\u003c/li\u003e\n\u003cli\u003eopen access FAIR data with focus on taxon treatments and figures liberated from publications\u003c/li\u003e\n\u003cli\u003ea digital object identifier (DOI) to enable citation of the publications and data including direct access to its digital representation.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eFor additional search functionality \u003ca href=\"https://refindit.org/\"\u003erefindit\u003c/a\u003e\u0026nbsp; can be used. This includes also searches in CrossRef, DataCite, PubMed, RefBank, GNUB and Mendeley.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUpload guideline\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eA provisional guideline how to upload is \u003ca href=\"https://drive.google.com/file/d/0B_yrQwn4yBySX3JkTV9RZzZfNUU/view?usp=sharing\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e", "title": "Biodiversity Literature Repository", "type": {"id": "topic"}, "website": "https://www.biolitrepo.org"}, "revision_id": 15, "slug": "biosyslit", "theme": {"brand": "biosyslit", "enabled": true, "style": {"font": {"family": "Arial, sans-serif", "size": "16px", "weight": 600}, "mainHeaderBackgroundColor": "#FFFFFF", "primaryColor": "#636363", "primaryTextColor": "#FFFFFF", "secondaryColor": "#7eb13e", "secondaryTextColor": "#FFFFFF", "tertiaryColor": "#7eb13e", "tertiaryTextColor": "#FFFFFF"}}, "updated": "2025-04-07T12:05:37.615917+00:00"}], "ids": ["c529f97d-f8cb-4c13-a439-9e36891694c2"]}, "id": "4943090", "pids": {}}, "pids": {"doi": {"identifier": "10.11646/zootaxa.4985.2.2", "provider": "external"}, "oai": {"identifier": "oai:zenodo.org:4943091", "provider": "oai"}}, "revision_id": 16, "stats": {"all_versions": {"data_volume": 0.0, "downloads": 0, "unique_downloads": 0, "unique_views": 172, "views": 175}, "this_version": {"data_volume": 0.0, "downloads": 0, "unique_downloads": 0, "unique_views": 172, "views": 175}}, "status": "published", "swh": {}, "ui": {"access_status": {"description_l10n": "The record is publicly accessible, but files are restricted. \u003ca href=\"https://zenodo.org/account/settings/login?next=https://zenodo.org/records/4943091\"\u003eLog in\u003c/a\u003e to check if you have access.", "embargo_date_l10n": null, "icon": "ban", "id": "restricted", "message_class": "negative", "title_l10n": "Restricted"}, "created_date_l10n_long": "June 14, 2021", "creators": {"affiliations": [], "creators": [{"person_or_org": {"family_name": "Varga", "given_name": "Oleksandr", "name": "Varga, Oleksandr", "type": "personal"}}]}, "custom_fields": {"journal:journal": {"issue": "2", "pages": "173-193", "title": "Zootaxa", "volume": "4985"}, "legacy:communities": ["biosyslit"]}, "description_stripped": "Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2", "is_draft": false, "publication_date_l10n_long": "June 14, 2021", "publication_date_l10n_medium": "Jun 14, 2021", "publishing_information": {"journal": "Zootaxa, 4985(2), 173-193, 2021."}, "related_identifiers": [{"identifier": "https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735", "relation_type": {"id": "issourceof", "title_l10n": "Is source of"}, "resource_type": {"id": "dataset", "title_l10n": "Dataset"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943093", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943101", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943103", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943109", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943113", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943117", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943123", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943127", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943131", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943346", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056012", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943352", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943133", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943135", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943137", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943139", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056062", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943095", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943099", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943105", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943107", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943115", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943119", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943121", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943125", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943176", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943190", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943192", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943195", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943197", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943199", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943201", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943180", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943182", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.1080/00222933.2016.1197335", "relation_type": {"id": "cites", "title_l10n": "Cites"}, "resource_type": {"id": "publication", "title_l10n": "Publication"}, "scheme": "doi"}], "resource_type": {"id": "publication-article", "title_l10n": "Journal article"}, "updated_date_l10n_long": "January 2, 2025", "version": "v1"}, "updated": "2025-01-02T13:33:33.787629+00:00", "versions": {"index": 1, "is_latest": true}}' data-preview='false'>
+        <div class="rel-p-1"></div>
+        <div class="ui fluid placeholder rel-mr-1 rel-ml-1"></div>
+        <div class="header">
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div class="sidebar-container">
+  <h2 class="ui small top attached header">External resources</h2>
+  <dl id="external-resource" aria-label="External resources" class="ui bottom attached segment rdm-sidebar external resource details-list">
+
+    <dt class="ui tiny header">Indexed in</dt>
+      <ul class="ui list no-bullet m-0">
+              <li class="item flex align-items-center">
+
+                
+                  <img class="ui image" src="/static/images/openaire.svg" alt="" width="32">
+                
+
+                <div class="content">
+                  <a
+                    class="header"
+                    href="https://explore.openaire.eu/search/result?pid=10.11646/zootaxa.4985.2.2"
+                    target="_blank"
+                    rel="noreferrer"
+                  >OpenAIRE
+                  </a>
+
+                  </div>
+              </li>
+              <li class="item flex align-items-center">
+
+                
+                  <img class="ui image" src="/static/images/treatment-bank.png" alt="" width="32">
+                
+
+                <div class="content">
+                  <a
+                    class="header"
+                    href="http://publication.plazi.org/id/FF8FFFC7FFA5FFDFE651FFD38E5AFFCB"
+                    target="_blank"
+                    rel="noreferrer"
+                  >TreatmentBank
+                  </a>
+
+                  </div>
+              </li>
+              <li class="item flex align-items-center">
+
+                
+                  <img class="ui image" src="/static/images/gbif.png" alt="" width="32">
+                
+
+                <div class="content">
+                  <a
+                    class="header"
+                    href="https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735"
+                    target="_blank"
+                    rel="noreferrer"
+                  >GBIF
+                  </a>
+
+                  </div>
+              </li></ul></dl>
+</div><div
+  id="sidebar-communities-manage"
+  data-user-communities-memberships='{}'
+  data-record-community-endpoint='https://zenodo.org/api/records/4943091/communities'
+  data-record-community-search-endpoint='https://zenodo.org/api/records/4943091/communities-suggestions'
+  data-record-community-search-config='{"aggs": [{"aggName": "type", "field": "type", "title": "Type"}, {"aggName": "funder", "field": "metadata.funding.funder", "title": "Funders"}, {"aggName": "organization", "field": "metadata.organizations", "title": "Organizations"}], "appId": "InvenioAppRdm.RecordCommunitiesSuggestions", "defaultSortingOnEmptyQueryString": [{"sortBy": "newest"}], "initialQueryState": {"filters": [], "hiddenParams": null, "layout": "list", "page": 1, "size": 10, "sortBy": "bestmatch"}, "layoutOptions": {"gridView": false, "listView": true}, "paginationOptions": {"defaultValue": 10, "maxTotalResults": 10000, "resultsPerPage": [{"text": "10", "value": 10}, {"text": "20", "value": 20}]}, "searchApi": {"axios": {"headers": {"Accept": "application/vnd.inveniordm.v1+json"}, "url": "https://zenodo.org/api/records/4943091/communities-suggestions", "withCredentials": true}, "invenio": {"requestSerializer": "InvenioRecordsResourcesRequestSerializer"}}, "sortOptions": [{"sortBy": "bestmatch", "text": "Best match"}, {"sortBy": "newest", "text": "Newest"}, {"sortBy": "oldest", "text": "Oldest"}], "sortOrderDisabled": true}'
+  data-record-user-community-search-endpoint=''
+  data-record-user-community-search-config='{"aggs": [{"aggName": "type", "field": "type", "title": "Type"}, {"aggName": "funder", "field": "metadata.funding.funder", "title": "Funders"}, {"aggName": "organization", "field": "metadata.organizations", "title": "Organizations"}], "appId": "InvenioAppRdm.RecordUserCommunitiesSuggestions", "defaultSortingOnEmptyQueryString": [{"sortBy": "newest"}], "initialQueryState": {"filters": [], "hiddenParams": [["membership", "true"]], "layout": "list", "page": 1, "size": 10, "sortBy": "bestmatch"}, "layoutOptions": {"gridView": false, "listView": true}, "paginationOptions": {"defaultValue": 10, "maxTotalResults": 10000, "resultsPerPage": [{"text": "10", "value": 10}, {"text": "20", "value": 20}]}, "searchApi": {"axios": {"headers": {"Accept": "application/vnd.inveniordm.v1+json"}, "url": "https://zenodo.org/api/records/4943091/communities-suggestions", "withCredentials": true}, "invenio": {"requestSerializer": "InvenioRecordsResourcesRequestSerializer"}}, "sortOptions": [{"sortBy": "bestmatch", "text": "Best match"}, {"sortBy": "newest", "text": "Newest"}, {"sortBy": "oldest", "text": "Oldest"}], "sortOrderDisabled": true}'
+  data-pending-communities-search-config='{"aggs": [{"aggName": "type", "field": "type", "title": "Type"}, {"aggName": "status", "field": "status", "title": "Status"}], "appId": "InvenioAppRdm.RecordRequests", "defaultSortingOnEmptyQueryString": [{"sortBy": "newest"}], "initialQueryState": {"filters": [], "hiddenParams": [["expand", "1"], ["is_open", "true"], ["type", "community-inclusion"], ["type", "community-submission"]], "layout": "list", "page": 1, "size": 10, "sortBy": "bestmatch"}, "layoutOptions": {"gridView": false, "listView": true}, "paginationOptions": {"defaultValue": 10, "maxTotalResults": 10000, "resultsPerPage": [{"text": "10", "value": 10}, {"text": "20", "value": 20}, {"text": "50", "value": 50}]}, "searchApi": {"axios": {"headers": {"Accept": "application/json"}, "url": "https://zenodo.org/api/records/4943091/requests", "withCredentials": true}, "invenio": {"requestSerializer": "InvenioRecordsResourcesRequestSerializer"}}, "sortOptions": [{"sortBy": "bestmatch", "text": "Best match"}, {"sortBy": "newest", "text": "Newest"}, {"sortBy": "oldest", "text": "Oldest"}, {"sortBy": "newestactivity", "text": "Newest activity"}, {"sortBy": "oldestactivity", "text": "Oldest activity"}], "sortOrderDisabled": true}'
+  data-permissions='{"can_edit": false, "can_immediately_delete": false, "can_manage": false, "can_media_read_files": true, "can_moderate": false, "can_new_version": false, "can_read_files": false, "can_remove_community_from_record": false, "can_request_deletion": false, "can_review": false, "can_update_draft": false, "can_view": false}'
+  data-record='{"access": {"embargo": {"active": false, "reason": null}, "files": "restricted", "record": "public", "status": "restricted"}, "created": "2021-06-14T07:58:54.884744+00:00", "custom_fields": {"journal:journal": {"issue": "2", "pages": "173-193", "title": "Zootaxa", "volume": "4985"}, "legacy:communities": ["biosyslit"]}, "deletion_status": {"is_deleted": false, "status": "P"}, "expanded": {"parent": {"access": {"owned_by": {"active": null, "blocked_at": null, "confirmed_at": null, "email": "", "id": "1161", "is_current_user": false, "links": {"avatar": "https://zenodo.org/api/users/1161/avatar.svg", "records_html": "https://zenodo.org/search?q=parent.access.owned_by.user:1161", "self": "https://zenodo.org/api/users/1161"}, "profile": {"affiliations": "", "full_name": ""}, "username": "coviho-admin", "verified_at": null}}, "communities": {"default": {"access": {"review_policy": "open", "visibility": "public"}, "id": "c529f97d-f8cb-4c13-a439-9e36891694c2", "links": {"logo": "https://zenodo.org/api/communities/c529f97d-f8cb-4c13-a439-9e36891694c2/logo"}, "metadata": {"description": "A community to share publications related to bio-systematics.", "title": "Biodiversity Literature Repository", "type": {"id": "topic", "title": {"de": "Thema", "en": "Topic"}}}, "slug": "biosyslit"}}}}, "files": {"enabled": true}, "id": "4943091", "is_draft": false, "is_published": true, "links": {"access": "https://zenodo.org/api/records/4943091/access", "access_grants": "https://zenodo.org/api/records/4943091/access/grants", "access_links": "https://zenodo.org/api/records/4943091/access/links", "access_request": "https://zenodo.org/api/records/4943091/access/request", "access_users": "https://zenodo.org/api/records/4943091/access/users", "archive": "https://zenodo.org/api/records/4943091/files-archive", "archive_media": "https://zenodo.org/api/records/4943091/media-files-archive", "communities": "https://zenodo.org/api/records/4943091/communities", "communities-suggestions": "https://zenodo.org/api/records/4943091/communities-suggestions", "doi": "https://doi.org/10.11646/zootaxa.4985.2.2", "draft": "https://zenodo.org/api/records/4943091/draft", "file_modification": "https://zenodo.org/api/records/4943091/file-modification", "files": "https://zenodo.org/api/records/4943091/files", "latest": "https://zenodo.org/api/records/4943091/versions/latest", "latest_html": "https://zenodo.org/records/4943091/latest", "media_files": "https://zenodo.org/api/records/4943091/media-files", "parent": "https://zenodo.org/api/records/4943090", "parent_html": "https://zenodo.org/records/4943090", "preview_html": "https://zenodo.org/records/4943091?preview=1", "quota_increase": "https://zenodo.org/api/records/4943091/quota-increase", "request_deletion": "https://zenodo.org/api/records/4943091/request-deletion", "requests": "https://zenodo.org/api/records/4943091/requests", "reserve_doi": "https://zenodo.org/api/records/4943091/draft/pids/doi", "self": "https://zenodo.org/api/records/4943091", "self_doi": "https://doi.org/10.11646/zootaxa.4985.2.2", "self_doi_html": "https://zenodo.org/doi/10.11646/zootaxa.4985.2.2", "self_html": "https://zenodo.org/records/4943091", "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4943091/manifest", "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4943091/sequence/default", "thumbnails": {"10": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E10,/0/default.jpg", "100": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E100,/0/default.jpg", "1200": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E1200,/0/default.jpg", "250": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E250,/0/default.jpg", "50": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E50,/0/default.jpg", "750": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E750,/0/default.jpg"}, "versions": "https://zenodo.org/api/records/4943091/versions"}, "media_files": {"enabled": false}, "metadata": {"creators": [{"person_or_org": {"family_name": "Varga", "given_name": "Oleksandr", "name": "Varga, Oleksandr", "type": "personal"}}], "description": "Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2", "identifiers": [{"identifier": "https://www.checklistbank.org/dataset/5869", "scheme": "url"}, {"identifier": "urn:lsid:zoobank.org:pub:8DBBBE6B-B212-4D84-873F-FDEEA44FD491", "scheme": "lsid"}, {"identifier": "urn:lsid:plazi.org:pub:FF8FFFC7FFA5FFDFE651FFD38E5AFFCB", "scheme": "lsid"}, {"identifier": "http://publication.plazi.org/id/FF8FFFC7FFA5FFDFE651FFD38E5AFFCB", "scheme": "url"}], "publication_date": "2021-06-14", "publisher": "Zenodo", "references": [{"reference": "Choi, J.-K., Kolarov, J. \u0026 Lee, J.-W. (2016) A taxonomic review of the genus Exochus Gravenhorst (Hymenoptera: Ichneumonidae: Metopiinae) from South Korea with descriptions of ten new species. Journal of Natural History, 50 (37-38), 2327-2367. https://doi.org/10.1080/00222933.2016.1197335"}, {"reference": "Gauld, I.D. (1991) The Ichneumonidae of Costa Rica, 1. Memoirs of the American Entomological Institute, 47, 1-589."}, {"reference": "Tolkanitz, V.I. (1992) Parasitic wasps of the subfamily Metopiinae (Hymenoptera, Ichneumonoidea) of Transbaikalia. Insects of Daurya in Adjacent Territories. Central Scientific Research Laboratory of Hunting and Forestry. Moscow, 1, 86-93. [in Russian]"}, {"reference": "Tolkanitz, V.I. (1993) New Palearctic species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae). Zoologicheskii Zhurnal, 72 (3), 92-105. [in Russian]"}, {"reference": "Tolkanitz, V.I. (1999) New and little-known Palaearctic species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae). Zoologicheskii Zhurnal, 78 (2), 191-201. [in Russian]"}, {"reference": "Tolkanitz, V.I. (2001) New species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopinae) from Russia and Mongolia. Zoologicheskii Zhurnal, 80 (11), 1404-1408. [in Russian]"}, {"reference": "Tolkanitz, V.I. (2003) New species of the genus Exochus (Hymenoptera, Ichneumonidae, Metopiinae) from the Russian Far East. Report 2. Zoologicheskii Zhurnal, 82 (10), 1211-1214. [in Russian]"}, {"reference": "Tolkanitz, V.I. (2007a) Ichneumon flies of the genus Exochus Gravenhorst (Hymenoptera: Ichneumonidae: Metopiinae) of the fauna of Palaearctic region. Russian Entomological Journal, 16 (3), 339-358."}, {"reference": "Tolkanitz, V.I. (2007b) Metopiinae. In: Lelej, A.S. (Ed.), Key to the insects of Russia Far East. Vol. IV. Neuropteroidea, Mecoptera, Hymenoptera. Part 5. Vladivostok: Dalnauka, pp. 638-667. [in Russian]"}, {"reference": "Yu, D.S., van Achterberg, C. \u0026 Horstmann, K. (2016) World Ichneumonoidea 2015. Taxonomy, Biology, Morphology and Distribution. Nepean, Ontario. [program]"}, {"reference": "Zerova, M.D., Tolkanitz, V.I., Kotenko, A.G., Seryogina, L.Y., Diakontshuk, L.A., Melika, G., Gumovsky, O.V., Fursov, V.N., Simutnik, S.A., Narolsky, N.B. \u0026 Stetsenko, T.I. (2006) The Types of Ichneumonoidea, Cynipoidea and Chalcidoidea (Hymenoptera, Apocrita) Deposited in the Collection of the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zoodiversity, Supplement 20, 1-132."}], "related_identifiers": [{"identifier": "https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735", "relation_type": {"id": "issourceof", "title": {"de": "Ist Quelle von", "en": "Is source of"}}, "resource_type": {"id": "dataset", "title": {"de": "Datensatz", "en": "Dataset"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943093", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943101", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943103", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943109", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943113", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943117", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943123", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943127", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943131", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943346", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056012", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943352", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943133", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943135", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943137", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943139", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056062", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "publication-taxonomictreatment", "title": {"de": "Taxonomische Behandlung", "en": "Taxonomic treatment"}}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943095", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943099", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943105", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943107", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943115", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943119", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943121", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943125", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943176", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943190", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943192", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943195", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943197", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943199", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943201", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943180", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943182", "relation_type": {"id": "haspart", "title": {"de": "Umfasst folgenden Teil", "en": "Has part"}}, "resource_type": {"id": "image-figure", "title": {"de": "Abbildung", "en": "Figure"}}, "scheme": "doi"}, {"identifier": "10.1080/00222933.2016.1197335", "relation_type": {"id": "cites", "title": {"de": "Zitiert", "en": "Cites"}}, "resource_type": {"id": "publication", "title": {"de": "Publikation", "en": "Publication"}}, "scheme": "doi"}], "resource_type": {"id": "publication-article", "title": {"de": "Zeitschriftenartikel", "en": "Journal article"}}, "subjects": [{"subject": "Biodiversity"}, {"subject": "Taxonomy"}, {"subject": "Animalia"}, {"subject": "Arthropoda"}, {"subject": "Insecta"}, {"subject": "Hymenoptera"}, {"subject": "Ichneumonidae"}], "title": "Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine"}, "parent": {"access": {"owned_by": {"user": "1161"}, "settings": {"accept_conditions_text": null, "allow_guest_requests": false, "allow_user_requests": false, "secret_link_expiration": 0}}, "communities": {"default": "c529f97d-f8cb-4c13-a439-9e36891694c2", "entries": [{"access": {"member_policy": "open", "members_visibility": "public", "record_submission_policy": "open", "review_policy": "open", "visibility": "public"}, "children": {"allow": true}, "created": "2013-11-11T14:14:18+00:00", "custom_fields": {}, "deletion_status": {"is_deleted": false, "status": "P"}, "id": "c529f97d-f8cb-4c13-a439-9e36891694c2", "links": {}, "metadata": {"curation_policy": "\u003col\u003e\n\u003cli\u003eIf an uploaded document has an existing DOI, it will be kept. If there is no DOI, a Zenodo DOI will be minted for the item.\u003c/li\u003e\n\u003cli\u003eItems with Open Access remain Open Access.\u003c/li\u003e\n\u003cli\u003eItems with closed access remain closed. If they are published on 31.12.1999 or earlier, they are made accessible for reading. Please consult your national copyright law for conditions of reuse.\u003c/li\u003e\n\u003cli\u003eTo upload publications, please contact \u003ca href=\"mailto:info@plazi.org\"\u003einfo@plazi.org\u003c/a\u003e.\u003c/li\u003e\n\u003c/ol\u003e", "description": "A community to share publications related to bio-systematics.", "funding": [{"funder": {"id": "051z6e826"}}], "organizations": [{"name": "Plazi"}], "page": "\u003cp\u003eThe Biodiversity Literature Repository (BLR) is to share publications related to bio-systematics. The goal is to provide\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eopen access to publications cited in publications or in combination with scientific names\u003c/li\u003e\n\u003cli\u003eopen access FAIR data with focus on taxon treatments and figures liberated from publications\u003c/li\u003e\n\u003cli\u003ea digital object identifier (DOI) to enable citation of the publications and data including direct access to its digital representation.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eFor additional search functionality \u003ca href=\"https://refindit.org/\"\u003erefindit\u003c/a\u003e\u0026nbsp; can be used. This includes also searches in CrossRef, DataCite, PubMed, RefBank, GNUB and Mendeley.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUpload guideline\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eA provisional guideline how to upload is \u003ca href=\"https://drive.google.com/file/d/0B_yrQwn4yBySX3JkTV9RZzZfNUU/view?usp=sharing\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e", "title": "Biodiversity Literature Repository", "type": {"id": "topic"}, "website": "https://www.biolitrepo.org"}, "revision_id": 15, "slug": "biosyslit", "theme": {"brand": "biosyslit", "enabled": true, "style": {"font": {"family": "Arial, sans-serif", "size": "16px", "weight": 600}, "mainHeaderBackgroundColor": "#FFFFFF", "primaryColor": "#636363", "primaryTextColor": "#FFFFFF", "secondaryColor": "#7eb13e", "secondaryTextColor": "#FFFFFF", "tertiaryColor": "#7eb13e", "tertiaryTextColor": "#FFFFFF"}}, "updated": "2025-04-07T12:05:37.615917+00:00"}], "ids": ["c529f97d-f8cb-4c13-a439-9e36891694c2"]}, "id": "4943090", "pids": {}}, "pids": {"doi": {"identifier": "10.11646/zootaxa.4985.2.2", "provider": "external"}, "oai": {"identifier": "oai:zenodo.org:4943091", "provider": "oai"}}, "revision_id": 16, "stats": {"all_versions": {"data_volume": 0.0, "downloads": 0, "unique_downloads": 0, "unique_views": 172, "views": 175}, "this_version": {"data_volume": 0.0, "downloads": 0, "unique_downloads": 0, "unique_views": 172, "views": 175}}, "status": "published", "swh": {}, "ui": {"access_status": {"description_l10n": "The record is publicly accessible, but files are restricted. \u003ca href=\"https://zenodo.org/account/settings/login?next=https://zenodo.org/records/4943091\"\u003eLog in\u003c/a\u003e to check if you have access.", "embargo_date_l10n": null, "icon": "ban", "id": "restricted", "message_class": "negative", "title_l10n": "Restricted"}, "created_date_l10n_long": "June 14, 2021", "creators": {"affiliations": [], "creators": [{"person_or_org": {"family_name": "Varga", "given_name": "Oleksandr", "name": "Varga, Oleksandr", "type": "personal"}}]}, "custom_fields": {"journal:journal": {"issue": "2", "pages": "173-193", "title": "Zootaxa", "volume": "4985"}, "legacy:communities": ["biosyslit"]}, "description_stripped": "Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2", "is_draft": false, "publication_date_l10n_long": "June 14, 2021", "publication_date_l10n_medium": "Jun 14, 2021", "publishing_information": {"journal": "Zootaxa, 4985(2), 173-193, 2021."}, "related_identifiers": [{"identifier": "https://www.gbif.org/dataset/f8df9064-3236-42d0-b335-2141cd1fc735", "relation_type": {"id": "issourceof", "title_l10n": "Is source of"}, "resource_type": {"id": "dataset", "title_l10n": "Dataset"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943093", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943101", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943103", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943109", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943113", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943117", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943123", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943127", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943131", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943346", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056012", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943352", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943133", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943135", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943137", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943139", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.5056062", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "doi"}, {"identifier": "http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "publication-taxonomictreatment", "title_l10n": "Taxonomic treatment"}, "scheme": "url"}, {"identifier": "10.5281/zenodo.4943095", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943099", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943105", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943107", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943115", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943119", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943121", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943125", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943176", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943190", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943192", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943195", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943197", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943199", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943201", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943180", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.5281/zenodo.4943182", "relation_type": {"id": "haspart", "title_l10n": "Has part"}, "resource_type": {"id": "image-figure", "title_l10n": "Figure"}, "scheme": "doi"}, {"identifier": "10.1080/00222933.2016.1197335", "relation_type": {"id": "cites", "title_l10n": "Cites"}, "resource_type": {"id": "publication", "title_l10n": "Publication"}, "scheme": "doi"}], "resource_type": {"id": "publication-article", "title_l10n": "Journal article"}, "updated_date_l10n_long": "January 2, 2025", "version": "v1"}, "updated": "2025-01-02T13:33:33.787629+00:00", "versions": {"index": 1, "is_latest": true}}'
+  data-record-requests='{}'
+  class='sidebar-container'
+>
+
+  <h2 class="ui medium top attached header">Communities</h2>
+
+  <div class="ui segment bottom attached rdm-sidebar">
+    <div class="ui fluid placeholder">
+      <div class="image header">
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <div class="image header">
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <div class="image header">
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <div class="sidebar-container">
+    <h2 class="ui medium top attached header mt-0">Keywords and subjects</h2>
+    <div id="keywords-and-subjects" aria-label="Keywords and subjects"
+            class="ui segment bottom attached rdm-sidebar">
+  
+  
+  <h3 class="hidden">Keywords</h3>
+  <ul class="ui horizontal list no-bullets subjects">
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Biodiversity%22"
+          class="subject"
+          title="Search results for Biodiversity"
+      >
+        Biodiversity
+      </a>
+    </li>
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Taxonomy%22"
+          class="subject"
+          title="Search results for Taxonomy"
+      >
+        Taxonomy
+      </a>
+    </li>
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Animalia%22"
+          class="subject"
+          title="Search results for Animalia"
+      >
+        Animalia
+      </a>
+    </li>
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Arthropoda%22"
+          class="subject"
+          title="Search results for Arthropoda"
+      >
+        Arthropoda
+      </a>
+    </li>
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Insecta%22"
+          class="subject"
+          title="Search results for Insecta"
+      >
+        Insecta
+      </a>
+    </li>
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Hymenoptera%22"
+          class="subject"
+          title="Search results for Hymenoptera"
+      >
+        Hymenoptera
+      </a>
+    </li>
+    <li class="item">
+      <a href="/search?q=metadata.subjects.subject:%22Ichneumonidae%22"
+          class="subject"
+          title="Search results for Ichneumonidae"
+      >
+        Ichneumonidae
+      </a>
+    </li>
+  </ul>
+  
+
+    </div>
+  </div>
+
+
+<div class="sidebar-container">
+  <h2 class="ui medium top attached header mt-0">Details</h2>
+  <div id="record-details" class="ui segment bottom attached rdm-sidebar">
+
+    <dl class="details-list">
+      
+
+ 
+  <dt class="ui tiny header">DOI
+    
+  </dt>
+  <dd>
+    <span class="get-badge details-doi-section" data-toggle="tooltip" data-placement="bottom">
+      <img id='record-doi-badge' data-target="[data-modal='10.11646/zootaxa.4985.2.2']" title="Get the DOI badge!"
+        src="/badge/DOI/10.11646/zootaxa.4985.2.2.svg" alt="10.11646/zootaxa.4985.2.2" />
+      <div id="copy-button-record-doi-badge" class="copy-doi-button" data-value=https://doi.org/10.11646/zootaxa.4985.2.2 data-size="mini"></div>
+    </span>
+
+    <div id="doi-modal" class="ui modal fade badge-modal" data-modal="10.11646/zootaxa.4985.2.2">
+      <div class="header">DOI Badge</div>
+      <div class="content">
+        <h4>
+          <small>DOI</small>
+        </h4>
+        <h4>
+          <pre>10.11646/zootaxa.4985.2.2</pre>
+        </h4>
+        
+        
+
+    <h3 class="ui small header">
+      Markdown
+    </h3>
+    <div class="ui message code">
+      <pre>[![DOI](https://zenodo.org/badge/DOI/10.11646/zootaxa.4985.2.2.svg)](https://doi.org/10.11646/zootaxa.4985.2.2)</pre>
+    </div>
+
+    <h3 class="ui small header">
+      reStructuredText
+    </h3>
+      <div class="ui message code">
+        <pre>.. image:: https://zenodo.org/badge/DOI/10.11646/zootaxa.4985.2.2.svg
+  :target: https://doi.org/10.11646/zootaxa.4985.2.2</pre>
+      </div>
+
+    <h3 class="ui small header">
+      HTML
+    </h3>
+    <div class="ui message code">
+      <pre>&lt;a href="https://doi.org/10.11646/zootaxa.4985.2.2"&gt;&lt;img src="https://zenodo.org/badge/DOI/10.11646/zootaxa.4985.2.2.svg" alt="DOI"&gt;&lt;/a&gt;</pre>
+    </div>
+
+    <h3 class="ui small header">
+      Image URL
+    </h3>
+    <div class="ui message code">
+      <pre>https://zenodo.org/badge/DOI/10.11646/zootaxa.4985.2.2.svg</pre>
+    </div>
+
+    <h3 class="ui small header">
+    Target URL
+    </h3>
+    <div class="ui message code">
+      <pre>https://doi.org/10.11646/zootaxa.4985.2.2</pre>
+    </div>
+      </div>
+    </div>
+  </dd>
+
+      
+      
+  <dt class="ui tiny header">Resource type</dt>
+  <dd>Journal article</dd>
+      
+      
+  <dt class="ui tiny header">Publisher</dt>
+  <dd>Zenodo</dd>
+      
+  <dt class="ui tiny header">Published in</dt>
+  <dd>Zootaxa, 4985(2), 173-193, 2021.</dd>
+      
+      
+      
+      
+      
+      
+    </dl>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="sidebar-container">
+  <h2 class="ui medium top attached header mt-0">Citation</h2>
+  <div id="citation" class="ui segment bottom attached rdm-sidebar">
+
+<div id="recordCitation" data-record-links='{"access": "https://zenodo.org/api/records/4943091/access", "access_grants": "https://zenodo.org/api/records/4943091/access/grants", "access_links": "https://zenodo.org/api/records/4943091/access/links", "access_request": "https://zenodo.org/api/records/4943091/access/request", "access_users": "https://zenodo.org/api/records/4943091/access/users", "archive": "https://zenodo.org/api/records/4943091/files-archive", "archive_media": "https://zenodo.org/api/records/4943091/media-files-archive", "communities": "https://zenodo.org/api/records/4943091/communities", "communities-suggestions": "https://zenodo.org/api/records/4943091/communities-suggestions", "doi": "https://doi.org/10.11646/zootaxa.4985.2.2", "draft": "https://zenodo.org/api/records/4943091/draft", "file_modification": "https://zenodo.org/api/records/4943091/file-modification", "files": "https://zenodo.org/api/records/4943091/files", "latest": "https://zenodo.org/api/records/4943091/versions/latest", "latest_html": "https://zenodo.org/records/4943091/latest", "media_files": "https://zenodo.org/api/records/4943091/media-files", "parent": "https://zenodo.org/api/records/4943090", "parent_html": "https://zenodo.org/records/4943090", "preview_html": "https://zenodo.org/records/4943091?preview=1", "quota_increase": "https://zenodo.org/api/records/4943091/quota-increase", "request_deletion": "https://zenodo.org/api/records/4943091/request-deletion", "requests": "https://zenodo.org/api/records/4943091/requests", "reserve_doi": "https://zenodo.org/api/records/4943091/draft/pids/doi", "self": "https://zenodo.org/api/records/4943091", "self_doi": "https://doi.org/10.11646/zootaxa.4985.2.2", "self_doi_html": "https://zenodo.org/doi/10.11646/zootaxa.4985.2.2", "self_html": "https://zenodo.org/records/4943091", "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4943091/manifest", "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4943091/sequence/default", "thumbnails": {"10": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E10,/0/default.jpg", "100": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E100,/0/default.jpg", "1200": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E1200,/0/default.jpg", "250": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E250,/0/default.jpg", "50": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E50,/0/default.jpg", "750": "https://zenodo.org/api/iiif/record:4943091:source.pdf/full/%5E750,/0/default.jpg"}, "versions": "https://zenodo.org/api/records/4943091/versions"}'
+  data-styles='[["apa", "APA"], ["harvard-cite-them-right", "Harvard"], ["modern-language-association", "MLA"], ["vancouver", "Vancouver"], ["chicago-fullnote-bibliography", "Chicago"], ["ieee", "IEEE"]]'
+  data-defaultstyle='"apa"'
+  data-include-deleted='false'>
+</div>
+  </div>
+</div>
+  <div class="sidebar-container">
+    <h2 class="ui medium top attached header mt-0">Export</h2>
+    <div id="export-record" class="ui segment bottom attached exports rdm-sidebar">
+
+      
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        <div id="recordExportDownload" data-formats='[{"export_url": "/records/4943091/export/json", "name": "JSON"}, {"export_url": "/records/4943091/export/json-ld", "name": "JSON-LD"}, {"export_url": "/records/4943091/export/csl", "name": "CSL"}, {"export_url": "/records/4943091/export/datacite-json", "name": "DataCite JSON"}, {"export_url": "/records/4943091/export/datacite-xml", "name": "DataCite XML"}, {"export_url": "/records/4943091/export/dublincore", "name": "Dublin Core XML"}, {"export_url": "/records/4943091/export/marcxml", "name": "MARCXML"}, {"export_url": "/records/4943091/export/bibtex", "name": "BibTeX"}, {"export_url": "/records/4943091/export/geojson", "name": "GeoJSON"}, {"export_url": "/records/4943091/export/dcat-ap", "name": "DCAT"}, {"export_url": "/records/4943091/export/codemeta", "name": "Codemeta"}, {"export_url": "/records/4943091/export/cff", "name": "Citation File Format"}, {"export_url": "/records/4943091/export/datapackage", "name": "Data Package JSON"}]'></div>
+    </div>
+  </div>
+<section
+  id="upload-info"
+  role="note"
+  aria-label="Upload information"
+  class="sidebar-container ui segment rdm-sidebar text-muted"
+>
+  <h2 class="ui small header text-muted p-0 mb-5"><small>Technical metadata</small></h2>
+  <dl class="m-0">
+    <dt class="inline"><small>Created</small></dt>
+    <dd class="inline">
+      <small>June 14, 2021</small>
+    </dd>
+    <div>
+      <dt class="rel-mt-1 inline"><small>Modified</small></dt>
+      <dd class="inline">
+        <small>January 2, 2025</small>
+      </dd>
+    </div>
+  </dl>
+</section>
+          
+        </aside>
+      </div>
+    </div>
+
+    <div class="ui container">
+      <div class="ui relaxed grid">
+        <div class="two column row">
+          <div class="sixteen wide tablet eleven wide computer column">
+            <div class="ui grid">
+                <div class="centered row rel-mt-1">
+                  <button id="jump-btn" class="jump-to-top ui button labeled icon"
+                          aria-label="Jump to top of page">
+                    <i class="arrow alternate circle up outline icon"></i>
+                    Jump up
+                  </button>
+                </div>
+              </div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+  </main>
+    <footer id="rdm-footer-element">
+        
+<div class="footer-top theme-primary horizon-footer">
+    <div class="ui container">
+
+      <div class="ui grid divided relaxed">
+        <div class="row">
+
+            <div
+              class="rdm-footer five wide tablet three wide computer sixteen wide mobile column rel-mb-2">
+              <h2 class="ui small header">Managed by</h2>
+              
+                <a href="https://plazi.org/">Plazi</a>
+                <i class="green check circle outline icon"></i>
+              
+            </div>
+            <div
+              class="rdm-footer eleven wide tablet thirteen wide computer sixteen wide mobile column">
+              <div class="ui equal width stackable grid">
+                <div class="column">
+                  <h2 class="ui small header">About</h2>
+                     <p><a href="/communities/biosyslit/about">About the Biodiversity Literature Repository</a></p>
+                     <p><a href="/communities/biosyslit/curation-policy">Curation policy</a></p>
+                </div>
+                <div class="right aligned column">
+                  <h2 class="ui small header">Funded by</h2>
+                     <a href="https://www.arcadiafund.org.uk/" aria-label="ARCADIA">
+                      <img src="/static/images/arcadia-logo.svg" alt="" />
+                    </a>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+        
+<div class="footer-bottom sub-footer theme-default rel-p-1">
+  <div class="ui container">
+    <div class="ui grid">
+        <div
+        class="four wide computer six wide tablet sixteen wide mobile column left middle aligned"
+        >
+          
+            Powered by
+            <a href="https://home.cern/science/computing/data-centre">CERN Data Centre</a> & <a href="https://inveniordm.docs.cern.ch/">InvenioRDM</a>
+          
+        </div>
+
+      <div
+        class="four wide computer four wide tablet sixteen wide mobile column centered middle aligned"
+      >
+        
+          <i class="green check circle outline icon"></i>
+            <a href="https://support.zenodo.org/help/en-gb/11/108">Verified community</a>
+        
+      </div>
+      <div
+        class="four wide computer six wide tablet sixteen wide mobile column right aligned"
+      >
+          <div class="ui horizontal list">
+            <div class="item"><a href="https://stats.uptimerobot.com/vlYOVuWgM/">Status</a></div>
+            <div class="item"><a href="https://about.zenodo.org/privacy-policy">Privacy policy</a></div>
+            <div class="item"><a href="https://about.zenodo.org/cookie-policy">Cookie policy</a></div>
+            <div class="item"><a href="https://about.zenodo.org/terms">Terms of use</a></div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+    </footer>
+  
+  
+    
+
+<script src="/static/dist/js/manifest.c5f924299eab94a6bae4.js"></script>
+<script src="/static/dist/js/73.d36ab5eb8bad45d9f605.js"></script>
+<script src="/static/dist/js/3526.ed5da8e6ee07811be4f4.js"></script>
+<script src="/static/dist/js/theme.4a2b163b20b8e6ef1a6e.js"></script>
+<script src="/static/dist/js/2827.d3aab582178cb9684eb7.js"></script>
+<script src="/static/dist/js/8064.9fffb272d7684691bf1b.js"></script>
+<script src="/static/dist/js/1057.26104cad0cafce1f262b.js"></script>
+<script src="/static/dist/js/7655.55098de3611f5d0529d0.js"></script>
+<script src="/static/dist/js/5092.fba77d5c4d495b767a3f.js"></script>
+<script src="/static/dist/js/8871.6614dafc9aa725b15772.js"></script>
+<script src="/static/dist/js/278.e7d76a72de2dcf6d18f5.js"></script>
+<script src="/static/dist/js/5941.85d36f47715571e28ef5.js"></script>
+<script src="/static/dist/js/8012.c9d2815ae7e4bce3beb9.js"></script>
+<script src="/static/dist/js/8118.cc6961bba9f07bde1b34.js"></script>
+<script src="/static/dist/js/4157.c5b39188400b4275c017.js"></script>
+<script src="/static/dist/js/4903.34dd3126bb99b3d38745.js"></script>
+<script src="/static/dist/js/2913.0633afa66eefa8115da7.js"></script>
+<script src="/static/dist/js/4826.44f644c733515d896ef1.js"></script>
+<script src="/static/dist/js/5049.e211a2de3d3a2ce0e6b3.js"></script>
+<script src="/static/dist/js/17.9ddf7be30ebd4ebec182.js"></script>
+<script src="/static/dist/js/base-theme-rdm.d332deaa0e19ba4379f9.js"></script>
+<script src="/static/dist/js/i18n_app.2761e9ae1ec76eb1273b.js"></script>
+<script src="/static/dist/js/2301.8451c3275c4c9cfd5e56.js"></script>
+<script src="/static/dist/js/4252.20b71df3c6d3a4778c88.js"></script>
+<script src="/static/dist/js/overridable-registry.d83637c55a4359a1f76f.js"></script>
+  
+    
+      <script type='application/ld+json'>{"@context": "http://schema.org", "@id": "https://doi.org/10.11646/zootaxa.4985.2.2", "@type": "https://schema.org/ScholarlyArticle", "author": [{"@type": "Person", "familyName": "Varga", "givenName": "Oleksandr", "name": "Varga, Oleksandr"}], "citation": [{"@id": "https://doi.org/10.1080/00222933.2016.1197335", "@type": "CreativeWork"}], "container_title": "Zootaxa", "creator": [{"@type": "Person", "familyName": "Varga", "givenName": "Oleksandr", "name": "Varga, Oleksandr"}], "dateCreated": "2021-06-14T07:58:54.884744+00:00", "dateModified": "2025-01-02T13:33:33.787629+00:00", "datePublished": "2021-06-14", "description": "Varga, Oleksandr (2021): Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine. Zootaxa 4985 (2): 173-193, DOI: 10.11646/zootaxa.4985.2.2", "hasPart": [{"@id": "https://doi.org/10.5281/zenodo.4943093", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA4FFDDE6C6FF0A8EB6FE3E", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943101", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA7FFDCE6C6FD958DC2FDAA", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943103", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA6FFDBE6C6FD618A81FDAA", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943109", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA1FFDAE6C6FD618A25FE1B", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943113", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA0FFD9E6C6FDF18A39FDF7", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943117", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA3FFD8E6C6FD5D8D8AFDF5", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943123", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FD5D8C8EFB22", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943127", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA2FFD8E6C6FAE98F3CF886", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943131", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFACFFD5E6C6F8E38A29FE67", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943346", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFAEFFD4E6C6FF448C38FD4E", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.5056012", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA9FFD2E6C6FF448D7BFED6", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943352", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFA8FFD1E6C6FEBD8EB7FDAB", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943133", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FD618B41FC02", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943135", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FBC98A2BFAFB", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943137", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFABFFD1E6C6FA518DC4F8E3", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943139", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFB4FFCDE6C6F8DE8A36FE67", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.5056062", "@type": "ScholarlyArticle"}, {"@id": "http://treatment.plazi.org/id/03B687BFFFB6FFCBE6C6FF448F3CFE42", "@type": "ScholarlyArticle"}, {"@id": "https://doi.org/10.5281/zenodo.4943095", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943099", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943105", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943107", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943115", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943119", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943121", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943125", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943176", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943190", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943192", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943195", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943197", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943199", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943201", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943180", "@type": "ImageObject"}, {"@id": "https://doi.org/10.5281/zenodo.4943182", "@type": "ImageObject"}], "identifier": "https://doi.org/10.11646/zootaxa.4985.2.2", "issue": "2", "keywords": "Biodiversity, Taxonomy, Animalia, Arthropoda, Insecta, Hymenoptera, Ichneumonidae", "name": "Types of the genus Exochus Gravenhorst, 1829 (Hymenoptera: Ichneumonidae Metopiinae) deposited at the Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine", "page": "173-193", "publisher": {"@type": "Organization", "name": "Zenodo"}, "url": "https://zenodo.org/records/4943091", "volume": "4985"}</script>
+
+  <script src="/static/dist/js/invenio-app-rdm-landing-page-theme.64c7c011b64f98124f68.js"></script>
+  <script src="/static/dist/js/9736.924ea7180eecd8bb97aa.js"></script>
+<script src="/static/dist/js/4683.ef44808f0414cb5f4c5a.js"></script>
+<script src="/static/dist/js/6170.ddae6777779c8b56b7da.js"></script>
+<script src="/static/dist/js/7302.43b2c2720b5fa38768d6.js"></script>
+<script src="/static/dist/js/8585.52db1ee0fb8bae67d13f.js"></script>
+<script src="/static/dist/js/5002.7e7e807a2f90f5135155.js"></script>
+<script src="/static/dist/js/1357.ee954a562e85e1c24e94.js"></script>
+<script src="/static/dist/js/1644.435be91d7927fc45d757.js"></script>
+<script src="/static/dist/js/3502.6cc033cae6b8129dc4ad.js"></script>
+<script src="/static/dist/js/8962.aaea24cf5bf5b317bb9c.js"></script>
+<script src="/static/dist/js/5097.d64ed0f7291ce88f984f.js"></script>
+<script src="/static/dist/js/invenio-app-rdm-landing-page.0f6d2dd9766c865b21bc.js"></script>
+  <script src="/static/dist/js/previewer_theme.ad3e58540f384cee9130.js"></script>
+  <script src="/static/dist/js/zenodo-rdm-citations.e04df31f51ef84878618.js"></script>
+  
+    <script src="/static/dist/js/zenodo-rdm-blr-search.935f5311f139da00203a.js"></script>
+  
+<div class="ui container info message cookie-banner hidden">
+  <i class="close icon"></i>
+  <div>
+    <i aria-hidden="true" class="info icon"></i>
+    <p class="inline">This site uses cookies. Find out more on <a href="https://about.zenodo.org/cookie-policy">how we use cookies</a></p>
+  </div>
+  <div class="buttons">
+    <button class="ui button small primary" id="cookies-all">Accept all cookies</button>
+    <button class="ui button small" id="cookies-essential">Accept only essential cookies</button>
+  </div>
+</div>
+
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['requireCookieConsent']);
+
+  (function() {
+    var u="https://webanalytics.web.cern.ch/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '366']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+
+  const cookieConsent = document.cookie
+    .split("; ")
+    .find((row) => row.startsWith("cookie_consent="))
+    ?.split("=")[1];
+
+  if (cookieConsent) {
+    if (cookieConsent === "all") {
+      matomo();
+    }
+  } else {
+    document.querySelector(".cookie-banner").classList.remove("hidden")
+    _paq.push(['forgetConsentGiven']);
+  }
+
+  $('.cookie-banner .close')
+    .on('click', function () {
+      $(this)
+        .closest('.message')
+        .transition('fade');
+      setCookie("cookie_consent","essential");
+    });
+
+  $('#cookies-essential')
+    .on('click', function () {
+      $(this)
+        .closest('.message')
+        .transition('fade');
+      setCookie("cookie_consent","essential");
+    });
+
+  $('#cookies-all')
+    .on('click', function () {
+      $(this)
+        .closest('.message')
+        .transition('fade');
+      setCookie("cookie_consent","all");
+      _paq.push(['rememberCookieConsentGiven']);
+      matomo();
+    });
+
+  function matomo() {
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+  }
+
+  function setCookie(cname, cvalue) {
+    var d = new Date();
+    d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // one year
+    var expires = "expires=" + d.toUTCString();
+    var cookie = cname + "=" + cvalue + ";" + expires + ";"
+    cookie += "Domain=zenodo.org;Path=/;SameSite=None; Secure";
+    document.cookie = cookie;
+  }
+</script>
+  </body>
+</html>

@@ -1,7 +1,13 @@
 package handler
 
 import (
+	"crypto/md5"
+	"encoding/hex"
+	"io"
 	"net/http"
+	"net/url"
+	"os"
+	"path/filepath"
 	"strconv"
 
 	"maqola-backent/internal/domain"
@@ -22,6 +28,7 @@ func NewArticleHandler(r *gin.Engine, us domain.ArticleUseCase) {
 	r.GET("/api/v1/articles", handler.FetchArticles)
 	r.GET("/api/v1/keywords", handler.FetchUniqueKeyWords)
 	r.POST("/api/v1/articles/:id/views", handler.AddViews)
+	r.GET("/api/v1/proxy/pdf", handler.ProxyPDF)
 }
 
 func (a *ArticleHandler) Health(c *gin.Context) {
@@ -115,4 +122,69 @@ func (a *ArticleHandler) AddViews(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"message": "views added successfully",
 	})
+}
+
+// ProxyPDF - Tashqi URL'dan PDF'ni yuklab, inline ko'rinishda frontendga uzatadi va keshlaydi
+func (a *ArticleHandler) ProxyPDF(c *gin.Context) {
+	pdfURL := c.Query("url")
+	if pdfURL == "" {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "url parameter is required"})
+		return
+	}
+
+	// URL xavfsizligini tekshirish
+	parsedURL, err := url.Parse(pdfURL)
+	if err != nil || (parsedURL.Scheme != "http" && parsedURL.Scheme != "https") {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "invalid URL"})
+		return
+	}
+
+	// Cache fayl nomini URL dan MD5 orqali yaratish
+	hash := md5.Sum([]byte(pdfURL))
+	hashStr := hex.EncodeToString(hash[:])
+	cacheDir := "cache/pdfs"
+	cachePath := filepath.Join(cacheDir, hashStr+".pdf")
+
+	// 1. Agar fayl keshda bo'lsa, o'shani qaytarish
+	if _, err := os.Stat(cachePath); err == nil {
+		c.Header("Content-Type", "application/pdf")
+		c.Header("Content-Disposition", "inline")
+		c.File(cachePath)
+		return
+	}
+
+	// 2. Keshda yo'q bo'lsa, tashqi serverdan yuklab olish
+	resp, err := http.Get(pdfURL)
+	if err != nil {
+		c.JSON(http.StatusBadGateway, gin.H{"error": "failed to fetch PDF"})
+		return
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		c.JSON(resp.StatusCode, gin.H{"error": "external server returned error"})
+		return
+	}
+
+	// Kesh papkasini yaratish (agar yo'q bo'lsa)
+	if err := os.MkdirAll(cacheDir, os.ModePerm); err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "failed to create cache directory"})
+		return
+	}
+
+	// Faylni saqlash
+	out, err := os.Create(cachePath)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "failed to save cache file"})
+		return
+	}
+	defer out.Close()
+
+	// Ham faylga saqlash, ham foydalanuvchiga uzatish (TeeReader)
+	c.Header("Content-Type", "application/pdf")
+	c.Header("Content-Disposition", "inline")
+	c.Status(http.StatusOK)
+	
+	tee := io.TeeReader(resp.Body, out)
+	io.Copy(c.Writer, tee)
 }
