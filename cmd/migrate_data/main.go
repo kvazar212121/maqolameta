@@ -12,7 +12,7 @@ import (
 
 func main() {
 	// Connect to Postgres
-	pgDSN := "host=localhost port=5432 user=postgres password=root dbname=maqolameta sslmode=disable"
+	pgDSN := "host=localhost port=5432 user=postgres password=maxfiyparol123 dbname=maqoladb sslmode=disable"
 	pgDB, err := sql.Open("postgres", pgDSN)
 	if err != nil {
 		log.Fatal("Error connecting to Postgres:", err)

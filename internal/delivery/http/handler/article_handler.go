@@ -1,13 +1,9 @@
 package handler
 
 import (
-	"crypto/md5"
-	"encoding/hex"
 	"io"
 	"net/http"
 	"net/url"
-	"os"
-	"path/filepath"
 	"strconv"
 
 	"maqola-backent/internal/domain"
@@ -139,21 +135,7 @@ func (a *ArticleHandler) ProxyPDF(c *gin.Context) {
 		return
 	}
 
-	// Cache fayl nomini URL dan MD5 orqali yaratish
-	hash := md5.Sum([]byte(pdfURL))
-	hashStr := hex.EncodeToString(hash[:])
-	cacheDir := "cache/pdfs"
-	cachePath := filepath.Join(cacheDir, hashStr+".pdf")
-
-	// 1. Agar fayl keshda bo'lsa, o'shani qaytarish
-	if _, err := os.Stat(cachePath); err == nil {
-		c.Header("Content-Type", "application/pdf")
-		c.Header("Content-Disposition", "inline")
-		c.File(cachePath)
-		return
-	}
-
-	// 2. Keshda yo'q bo'lsa, tashqi serverdan yuklab olish
+	// Keshga saqlamasdan to'g'ridan-to'g'ri foydalanuvchiga uzatish
 	resp, err := http.Get(pdfURL)
 	if err != nil {
 		c.JSON(http.StatusBadGateway, gin.H{"error": "failed to fetch PDF"})
@@ -166,25 +148,9 @@ func (a *ArticleHandler) ProxyPDF(c *gin.Context) {
 		return
 	}
 
-	// Kesh papkasini yaratish (agar yo'q bo'lsa)
-	if err := os.MkdirAll(cacheDir, os.ModePerm); err != nil {
-		c.JSON(http.StatusInternalServerError, gin.H{"error": "failed to create cache directory"})
-		return
-	}
-
-	// Faylni saqlash
-	out, err := os.Create(cachePath)
-	if err != nil {
-		c.JSON(http.StatusInternalServerError, gin.H{"error": "failed to save cache file"})
-		return
-	}
-	defer out.Close()
-
-	// Ham faylga saqlash, ham foydalanuvchiga uzatish (TeeReader)
 	c.Header("Content-Type", "application/pdf")
 	c.Header("Content-Disposition", "inline")
 	c.Status(http.StatusOK)
 	
-	tee := io.TeeReader(resp.Body, out)
-	io.Copy(c.Writer, tee)
+	io.Copy(c.Writer, resp.Body)
 }
